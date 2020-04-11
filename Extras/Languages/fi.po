@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kalium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-10 09:22+0200\n"
+"PO-Revision-Date: 2018-05-10 09:22+0200\n"
+"Last-Translator: Laborator <info@laborator.co>\n"
+"Language-Team: Finnish\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Translation-Version: 2.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc/lib/class-tgm-plugin-activation.php\n"
+"X-Poedit-SearchPathExcluded-2: inc/lib/laborator/laborator-demo-content-"
+"importer\n"
+"X-Poedit-SearchPathExcluded-3: inc/lib/smof\n"
+"X-Poedit-SearchPathExcluded-4: inc/lib/BFI_Thumb.php\n"
+"X-Poedit-SearchPathExcluded-5: style.css\n"
+"X-Poedit-SearchPathExcluded-6: woocommerce\n"
+
+#: 404.php:25
+msgid "Not found!"
+msgstr "Ei löytynyt!"
+
+#: 404.php:26
+#, php-format
+msgid ""
+"We’re sorry, the page you have looked for does not exist in our database! "
+"<br /> Perhaps you would like to go to our <a href=\"%s\">home page</a>?"
+msgstr ""
+"Pahoittelut! Hakemaasi sivua ei löydy tietokannastamme. <br /> Kenties "
+"haluat siirtyä takaisin <a href=\"%s\">etusivullemme</a>?"
+
+#: coming-soon-mode.php:91
+msgid "Days"
+msgstr "Päivää"
+
+#: coming-soon-mode.php:91
+msgid "Day"
+msgstr "Päivä"
+
+#: coming-soon-mode.php:95
+msgid "Hours"
+msgstr "Tuntia"
+
+#: coming-soon-mode.php:95
+msgid "Hour"
+msgstr "Tunti"
+
+#: coming-soon-mode.php:99
+msgid "Minutes"
+msgstr "Minuuttia"
+
+#: coming-soon-mode.php:99
+msgid "Minute"
+msgstr "Minuutti"
+
+#: coming-soon-mode.php:103
+msgid "Seconds"
+msgstr "Sekuntia"
+
+#: coming-soon-mode.php:103
+msgid "Second"
+msgstr "Sekunti"
+
+#: comments.php:22
+#, php-format
+msgid "1 Comment"
+msgid_plural "%d Comments"
+msgstr[0] "1 Kommentti"
+msgstr[1] "%d Kommenttia"
+
+#: comments.php:23
+msgid "Join the discussion and tell us your opinion."
+msgstr "Liity mukaan keskusteluun ja kerro meille mielipiteesi."
+
+#: comments.php:23
+msgid "Be the first to comment on this article."
+msgstr "Kommentoi artikkelia ensimmäisenä."
+
+#: comments.php:44
+#, php-format
+msgid "%s Previous"
+msgstr "%s Edellinen"
+
+#: comments.php:45
+#, php-format
+msgid "Next %s"
+msgstr "Seuraava %s"
+
+#: comments.php:78
+msgid "Leave a reply"
+msgstr "Jätä vastaus"
+
+#: comments.php:78
+msgid "Share your thoughts"
+msgstr "Jaa mielipiteesi"
+
+#: comments.php:79
+#, php-format
+msgid "Reply to %s"
+msgstr "Vastaa: %s"
+
+#: comments.php:84
+msgid "Comment"
+msgstr "Kommentti"
+
+#: inc/functions/template/blog-template-functions.php:58
+msgid "Category"
+msgstr "Kategoria"
+
+#: inc/functions/template/blog-template-functions.php:64
+msgid "Tag"
+msgstr "Nimike"
+
+#: inc/functions/template/blog-template-functions.php:69
+msgid "Author"
+msgstr "Tekijä"
+
+#: inc/functions/template/blog-template-functions.php:74
+msgid "Year"
+msgstr "Vuosi"
+
+#: inc/functions/template/blog-template-functions.php:79
+#: inc/functions/template/blog-template-functions.php:84
+msgid "Month"
+msgstr "Kuukausi"
+
+#: inc/functions/template/blog-template-functions.php:184
+msgid "There are no posts to show"
+msgstr "Ei ole viestejä näytettäväksi"
+
+#: inc/functions/template/blog-template-functions.php:235
+#: inc/functions/template/woocommerce-template-functions.php:436
+msgid "Show more"
+msgstr "Näytä lisää"
+
+#: inc/functions/template/blog-template-functions.php:236
+msgid "All posts are shown"
+msgstr "Kaikki artikkelit näkyvät"
+
+#: inc/functions/template/blog-template-functions.php:554
+msgid "Previous page"
+msgstr "Edellinen sivu"
+
+#: inc/functions/template/blog-template-functions.php:555
+msgid "Next page"
+msgstr "Seuraava sivu"
+
+#: inc/functions/template/blog-template-functions.php:646
+msgid "Loading posts..."
+msgstr "Ladataan artikkeleja..."
+
+#: inc/functions/template/blog-template-functions.php:771
+msgid "Share:"
+msgstr "Jaa:"
+
+#: inc/functions/template/blog-template-functions.php:1093
+msgid "Older Post"
+msgstr "Vanhempi viesti"
+
+#: inc/functions/template/blog-template-functions.php:1100
+msgid "Newer Post"
+msgstr "Uudempi viesti"
+
+#: inc/functions/template/blog-template-functions.php:1137
+#, php-format
+msgctxt "comment submit date"
+msgid "%s at %s"
+msgstr "%s klo %s"
+
+#: inc/functions/template/blog-template-functions.php:1174
+msgid "reply"
+msgstr "vastaus"
+
+#: inc/functions/template/blog-template-functions.php:1195
+#, php-format
+msgid "In reply to: %s"
+msgstr "Vastauksena: %s"
+
+#: inc/functions/template/woocommerce-template-functions.php:437
+msgid "No more products to show"
+msgstr "Ei lisää tuotteita näytettäväksi"
+
+#: inc/functions/template/woocommerce-template-functions.php:843
+msgid "Added to cart"
+msgstr "Lisätty koriin"
+
+#: inc/functions/template/woocommerce-template-functions.php:864
+#: templates/global/pagination-normal.php:21 tpls/portfolio-listing.php:109
+#: tpls/search-results.php:76 tpls/search-results.php:90
+msgid "Previous"
+msgstr "Edellinen"
+
+#: inc/functions/template/woocommerce-template-functions.php:865
+#: templates/global/pagination-normal.php:22 tpls/portfolio-listing.php:112
+#: tpls/search-results.php:79 tpls/search-results.php:91
+msgid "Next"
+msgstr "Seuraava"
+
+#: inc/functions/template/woocommerce-template-functions.php:1132
+#, php-format
+msgid "%s out of 5"
+msgstr "%s/5"
+
+#: inc/functions/template/woocommerce-template-functions.php:1245
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Arvioitu %s/5"
+
+#: inc/functions/template/woocommerce-template-functions.php:1259
+msgid "Payment method"
+msgstr "Maksutapa"
+
+#: inc/functions/template/woocommerce-template-functions.php:1303
+msgid "Login or register"
+msgstr "Kirjaudu tai rekisteröidy"
+
+#: inc/functions/template/woocommerce-template-functions.php:1305
+msgid "Login"
+msgstr "Kirjaudu"
+
+#: inc/functions/template/woocommerce-template-functions.php:1309
+msgid "Manage your account and see your orders"
+msgstr "Muokkaa tiliäsi ja tarkastele tilauksiasi"
+
+#: inc/functions/template/woocommerce-template-functions.php:1389
+msgid "Cart"
+msgstr "Kori"
+
+#: inc/functions/template/woocommerce-template-functions.php:1429
+msgid "Share this item:"
+msgstr "Jaa tämä kohde:"
+
+#: inc/functions/template/woocommerce-template-functions.php:1479
+msgid "Logout"
+msgstr "Kirjaudu ulos"
+
+#: inc/functions/template/woocommerce-template-functions.php:1507
+msgid "My Orders"
+msgstr "Tilaukseni"
+
+#: inc/functions/template/woocommerce-template-functions.php:1508
+msgid "Your recent orders are displayed in the table below."
+msgstr "Viimeaikaiset tilauksesi ovat näkyvillä alla."
+
+#: inc/functions/template/woocommerce-template-functions.php:1523
+msgid "My Downloads"
+msgstr "Lataukseni"
+
+#: inc/functions/template/woocommerce-template-functions.php:1524
+msgid "Your digital downloads are displayed in the table below."
+msgstr "Digitaaliset latauksesi ovat esitetty alla."
+
+#: inc/functions/template/woocommerce-template-functions.php:1606
+msgid "View full size"
+msgstr "Näytä täysikokoisena"
+
+#: inc/functions/template/woocommerce-template-functions.php:1781
+msgid "Out of stock"
+msgstr "Loppu"
+
+#: inc/functions/template/woocommerce-template-functions.php:1786
+msgid "Featured"
+msgstr "Suositellut"
+
+#: inc/functions/template/woocommerce-template-functions.php:1791
+msgid "Sale!"
+msgstr ""
+
+#: inc/functions/woocommerce-functions.php:127
+msgid "&laquo; Go back"
+msgstr "&laquo; Takaisin"
+
+#: inc/functions/woocommerce-functions.php:128
+msgid "Edit information for this address type"
+msgstr "Muokkaa tämän osoitteen tietoja"
+
+#: inc/functions/woocommerce-functions.php:129
+msgid "My account"
+msgstr "Oma tili"
+
+#: inc/functions/woocommerce-functions.php:130
+msgid "Edit your account details or change your password"
+msgstr "Muokkaa tilisi tietoja tai vaihda salasanasi"
+
+#: inc/functions/woocommerce-functions.php:131
+msgid "(leave blank to leave unchanged)"
+msgstr "(jätä tyhjäksi jos et halua vaihtaa)"
+
+#: inc/functions/woocommerce-functions.php:132
+msgid "Current password"
+msgstr "Nykyinen salasana"
+
+#: inc/laborator_filters.php:135 inc/laborator_functions.php:140
+msgid "Email"
+msgstr "Sähköposti"
+
+#: inc/laborator_functions.php:139
+#, php-format
+msgid "Check out what I just spotted: %s"
+msgstr "Katso mitä löysin: %s"
+
+#: inc/laborator_functions.php:146
+msgid "Print"
+msgstr "Tulosta"
+
+#: inc/laborator_functions.php:938 searchform.php:16 tpls/menu-mobile.php:52
+msgid "Search site..."
+msgstr "Hae sivustolta..."
+
+#: inc/laborator_portfolio.php:568
+msgid "Your browser does not support HTML5 video."
+msgstr "Selaimesi ei tue HTML5-videota."
+
+#: inc/laborator_portfolio.php:880
+msgid "Show More"
+msgstr "Näytä lisää"
+
+#: inc/laborator_portfolio.php:881
+msgid "No more portfolio items to show"
+msgstr "Ei lisää portfoliomerkintöjä näytettäväksi"
+
+#: inc/laborator_portfolio.php:1862
+#, php-format
+msgctxt "current portfolio subcategory"
+msgid "%s:"
+msgstr "%s:"
+
+#: inc/lib/post-link-plus.php:310
+msgid "Previous Post"
+msgstr "Edellinen artikkeli"
+
+#: inc/lib/post-link-plus.php:310
+msgid "Next Post"
+msgstr "Seuraava artikkeli"
+
+#: inc/lib/vc/custom-font-icons.php:30
+msgid "Icon"
+msgstr "Kuvake"
+
+#: inc/lib/vc/lab_contact_form/init.php:160
+msgid "Captcha verification failed, please try again!"
+msgstr ""
+
+#: inc/lib/vc/lab_contact_form/init.php:187
+#, php-format
+msgctxt "contact form subject"
+msgid "[%s] New Contact Form message has been received."
+msgstr "[%s] uusi viesti yhteydenottolomakkeesta."
+
+#: inc/lib/vc/lab_contact_form/init.php:194
+msgctxt "contact form"
+msgid "You have received new contact form message."
+msgstr "Olet vastaanottanut uuden viestin yhteydenottolomakkeen kautta."
+
+#: inc/lib/vc/lab_contact_form/init.php:196
+msgctxt "contact form"
+msgid "----- Message Details -----"
+msgstr "----- Viestin tiedot -----"
+
+#: inc/lib/vc/lab_contact_form/init.php:213
+#, php-format
+msgctxt "contact form"
+msgid "This message has been sent from IP: %s"
+msgstr "Tämä viesti lähetettiin IP-osoitteesta: %s"
+
+#: inc/lib/vc/lab_contact_form/init.php:215
+#, php-format
+msgctxt "contact form"
+msgid "Site URL: %s"
+msgstr "Sivuston URL: %s"
+
+#: inc/lib/vc/lab_products_carousel/init.php:245
+msgid "Loading products..."
+msgstr "Ladataan tuotteita..."
+
+#: searchform.php:15 searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr "Hae nimikkeellä:"
+
+#: searchform.php:18 tpls/menu-mobile.php:58
+msgid "Go"
+msgstr "Mene"
+
+#: tpls/header-main.php:331
+msgid "Search"
+msgstr "Haku"
+
+#: tpls/portfolio-listing-title.php:73
+msgid "All"
+msgstr "Kaikki"
+
+#: tpls/portfolio-single-5.php:79
+msgid "Click here to show project info"
+msgstr "Paina tästä katsoaksesi projektin tiedot"
+
+#: tpls/portfolio-single-6.php:35
+msgid "Open in Lightbox"
+msgstr "Avaa Lightboxissa"
+
+#: tpls/portfolio-single-like-share.php:53
+msgid "Share"
+msgstr "Jaa"
+
+#: tpls/portfolio-single-prevnext.php:64
+msgid "Previous project"
+msgstr "Edellinen projekti"
+
+#: tpls/portfolio-single-prevnext.php:65
+msgid "Next project"
+msgstr "Seuraava projekti"
+
+#: tpls/portfolio-single-prevnext.php:127
+msgid "Go to portfolio archive"
+msgstr "Siirry portfolioarkistoon"
+
+#: tpls/search-results.php:21
+msgid "Click to change your search"
+msgstr "Klikkaa muokataksesi hakua"
+
+#: tpls/search-results.php:27
+#, php-format
+msgid "%d results for “%s”"
+msgstr "%d hakutulosta sanoilla \"%s\""
+
+#: tpls/search-results.php:30
+#, php-format
+msgid "We have found one match with the word you searched."
+msgid_plural "We have found %d results with the word you searched."
+msgstr[0] "Hakukriteereilläsi löytyi yksi tulos."
+msgstr[1] "Hakukriteereilläsi löytyi %d tulosta."
+
+#: tpls/search-results.php:32
+msgid "There is nothing found that matches your search criteria."
+msgstr "Hakukriteereitäsi vastaavia tuloksia ei löytynyt."
+
+#: tpls/search-results.php:65
+msgid "Continue &#65515;"
+msgstr "Jatka &#65515;"
+
+#: tpls/wc-mini-cart.php:18
+msgid "Loading cart contents..."
+msgstr "Ladataan ostoskorin sisältöä..."
+
+#: tpls/wc-mini-cart.php:30
+#, php-format
+msgid "Your cart is empty! <a href=\"%s\">Go shopping &raquo;</a>"
+msgstr "Ostoskorisi on tyhjä! <a href=\"%s\">Siirry ostamaan &raquo;</a>"
+
+#: tpls/wc-mini-cart.php:67
+msgid "Quantity"
+msgstr ""
+
+#: tpls/wc-mini-cart.php:100
+msgid "View Cart"
+msgstr "Katso ostoskoria"
+
+#: tpls/wc-mini-cart.php:104
+msgid "Checkout"
+msgstr "Kassa"
+
+#: tpls/wc-mini-cart.php:110
+msgid "Subtotal"
+msgstr "Välisumma"
+
+#: vc_templates/lab_blog_posts.php:220
+msgid "Loading blog posts..."
+msgstr "Ladataan blogiviestejä..."
+
+#: vc_templates/lab_contact_form.php:51
+msgid "Please fill \"%\" field."
+msgstr "Ole hyvä ja täytä kenttä \"%\"."
+
+#: vc_templates/lab_contact_form.php:51
+msgid "You must check privacy policy checkbox in order to submit the form."
+msgstr ""
+
+#: vc_templates/lab_message.php:57
+msgid "Close"
+msgstr "Sulje"
+
+#. Theme Name of the plugin/theme
+msgid "Kalium"
+msgstr "Kalium"
+
+#. Theme URI of the plugin/theme
+msgid "https://laborator.co/themes/kalium/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Start creating that amazing website that you have always wanted, only with "
+"Kalium — Connect with Laborator:  <a href=\"https://themeforest.net/user/"
+"laborator\">Envato</a>, <a href=\"https://twitter.com/thelaborator"
+"\">Twitter</a> or <a href=\"https://www.facebook.com/laboratorcreative"
+"\">Facebook</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Laborator"
+msgstr "Laborator"
+
+#. Author URI of the plugin/theme
+msgid "https://laborator.co/"
+msgstr ""
+
+#~ msgid "No more posts to show"
+#~ msgstr "Ei enempää viestejä näytettäväksi"
+
+#~ msgid "Reset password"
+#~ msgstr "Salasanan palautus"
+
+#~ msgid "Lost password"
+#~ msgstr "Salasana unohtunut"
+
+#~ msgctxt "submit button"
+#~ msgid "Go"
+#~ msgstr "Lähetä"
+
+#~ msgid "Password change"
+#~ msgstr "Salasanan vaihto"
+
+#~ msgid "New password"
+#~ msgstr "Uusi salasana"
+
+#~ msgid "Quantity: %s &times; <strong>%s</strong>"
+#~ msgstr "Lukumäärä: %s &times; <strong>%s</strong>"
+
+#~ msgid "Login or Register"
+#~ msgstr "Kirjaudu tai rekisteröidy"
+
+#~ msgid "Payment Method"
+#~ msgstr "Maksutapa"
+
+#~ msgid "Reset Password"
+#~ msgstr "Nollaa salasana"
+
+#~ msgid "Lost Password"
+#~ msgstr "Salasana hukassa"
+
+#~ msgid "My Account"
+#~ msgstr "Tilini"
+
+#~ msgid ""
+#~ "Designer, Architect, Photographer, Freelancer, Blogger, person who sell "
+#~ "goods online or just feeling creative, Kalium is absolutely what you have "
+#~ "been waiting for. Start creating that amazing website that you have been "
+#~ "dreaming of! You can find us on:  <a href=\"http://themeforest.net/user/"
+#~ "laborator\">Envato</a>, <a href=\"https://twitter.com/thelaborator"
+#~ "\">Twitter</a> or <a href=\"https://www.facebook.com/laboratorcreative"
+#~ "\">Facebook</a>."
+#~ msgstr ""
+#~ "Olit sitten suunnittelija, arkkitehti, valokuvaaja, freelanceri, "
+#~ "blogaaja, verkkokauppias tai vain luovalla tuulella, Kalium on juuri mitä "
+#~ "olet odottanut. Ryhdy luomaan juuri sitä verkkosivua, josta olet "
+#~ "unelmoinut! Löydät meidät esimerkiksi <a href=\"http://themeforest.net/"
+#~ "user/laborator\">Envatosta</a>, <a href=\"https://twitter.com/thelaborator"
+#~ "\">Twitteristä</a> tai <a href=\"https://www.facebook.com/"
+#~ "laboratorcreative\">Facebookista</a>."
+
+#~ msgid "http://www.laborator.co/view-theme/kalium"
+#~ msgstr "http://www.laborator.co/view-theme/kalium"
+
+#~ msgid "%s at %s"
+#~ msgstr "%s %s"
+
+#~ msgid "Password Change"
+#~ msgstr "Salasanan vaihto"
+
+#~ msgid "Current Password"
+#~ msgstr "Nykyinen salasana"
+
+#~ msgid "New Password"
+#~ msgstr "Uusi salasana"
+
+#~ msgid "http://laborator.co/"
+#~ msgstr "http://laborator.co/"
+
+#~ msgid "Visit plugin homepage"
+#~ msgstr "Vieraile lisäosan kotisivulla"
+
+#~ msgctxt "by author"
+#~ msgid "by %s"
+#~ msgstr "tehnyt %s"

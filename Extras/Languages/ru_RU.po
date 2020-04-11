@@ -1,0 +1,601 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kalium\n"
+"POT-Creation-Date: 2019-02-04 16:28+0100\n"
+"PO-Revision-Date: 2019-02-04 16:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: Laborator <info@laborator.co>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Translation-Version: 2.7.6\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc/lib/class-tgm-plugin-activation.php\n"
+"X-Poedit-SearchPathExcluded-2: inc/lib/laborator/laborator-demo-content-"
+"importer\n"
+"X-Poedit-SearchPathExcluded-3: inc/lib/smof\n"
+"X-Poedit-SearchPathExcluded-4: inc/lib/BFI_Thumb.php\n"
+"X-Poedit-SearchPathExcluded-5: style.css\n"
+"X-Poedit-SearchPathExcluded-6: woocommerce\n"
+
+#: 404.php:25
+msgid "Not found!"
+msgstr "ничего не найдено!"
+
+#: 404.php:26
+#, php-format
+msgid ""
+"We’re sorry, the page you have looked for does not exist in our database! "
+"<br /> Perhaps you would like to go to our <a href=\"%s\">home page</a>?"
+msgstr ""
+"Упс, Страница удалена или  не существует.  <br /> Пожалуйста, вернитесь  на  "
+"<a href=\"%s\">главную страницу</a>"
+
+#: coming-soon-mode.php:93
+msgid "Days"
+msgstr "Дней"
+
+#: coming-soon-mode.php:94
+msgid "Day"
+msgstr "День"
+
+#: coming-soon-mode.php:99
+msgid "Hours"
+msgstr "часов"
+
+#: coming-soon-mode.php:100
+msgid "Hour"
+msgstr "Час"
+
+#: coming-soon-mode.php:105
+msgid "Minutes"
+msgstr "Минут"
+
+#: coming-soon-mode.php:106
+msgid "Minute"
+msgstr "Минута"
+
+#: coming-soon-mode.php:111
+msgid "Seconds"
+msgstr "Cекунды"
+
+#: coming-soon-mode.php:112
+msgid "Second"
+msgstr "Cекунда"
+
+#: comments.php:22
+#, php-format
+msgid "1 Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d комментарий"
+msgstr[1] "%d комментария"
+msgstr[2] "%d комментариев"
+
+#: comments.php:23
+msgid "Join the discussion and tell us your opinion."
+msgstr "Присоединяйтесь к обсуждению и сообщите нам свое мнение."
+
+#: comments.php:23
+msgid "Be the first to comment on this article."
+msgstr "Будьте первым, кто оставит свой комментарий."
+
+#: comments.php:40
+#, php-format
+msgid "%s Previous"
+msgstr "%s Предыдущая"
+
+#: comments.php:41
+#, php-format
+msgid "Next %s"
+msgstr "Следующие %s"
+
+#: comments.php:66
+msgid "Leave a reply"
+msgstr "Оставить комментарий"
+
+#: comments.php:66
+msgid "Share your thoughts"
+msgstr "Поделитесь своими мыслями"
+
+#: comments.php:67
+#, php-format
+msgid "Reply to %s"
+msgstr "Комментарий к записи %s"
+
+#: comments.php:72
+msgid "Comment"
+msgstr "комментарий"
+
+#: inc/functions/template/blog-template-functions.php:58
+msgid "Category"
+msgstr "Категория"
+
+#: inc/functions/template/blog-template-functions.php:64
+msgid "Tag"
+msgstr "Метка"
+
+#: inc/functions/template/blog-template-functions.php:71
+msgid "Author"
+msgstr "Автор"
+
+#: inc/functions/template/blog-template-functions.php:76
+msgid "Year"
+msgstr "Год"
+
+#: inc/functions/template/blog-template-functions.php:81
+#: inc/functions/template/blog-template-functions.php:86
+msgid "Month"
+msgstr "Месяц"
+
+#: inc/functions/template/blog-template-functions.php:186
+msgid "There are no posts to show"
+msgstr "Нет больше сообщений для отображения"
+
+#: inc/functions/template/blog-template-functions.php:237
+#: inc/functions/template/woocommerce-template-functions.php:427
+msgid "Show more"
+msgstr "Показать больше"
+
+#: inc/functions/template/blog-template-functions.php:238
+msgid "All posts are shown"
+msgstr "Все сообщения показаны"
+
+#: inc/functions/template/blog-template-functions.php:556
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: inc/functions/template/blog-template-functions.php:557
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: inc/functions/template/blog-template-functions.php:648
+msgid "Loading posts..."
+msgstr "Загружаются дополнительные..."
+
+#: inc/functions/template/blog-template-functions.php:773
+msgid "Share:"
+msgstr "Поделиться:"
+
+#: inc/functions/template/blog-template-functions.php:1095
+msgid "Older Post"
+msgstr "Предыдущая публикация"
+
+#: inc/functions/template/blog-template-functions.php:1102
+msgid "Newer Post"
+msgstr "Следующая публикация"
+
+#: inc/functions/template/blog-template-functions.php:1136
+#, php-format
+msgctxt "comment submit date"
+msgid "%s at %s"
+msgstr "%s в %s"
+
+#: inc/functions/template/blog-template-functions.php:1173
+msgid "reply"
+msgstr "комментарий"
+
+#: inc/functions/template/blog-template-functions.php:1194
+#, php-format
+msgid "In reply to: %s"
+msgstr "В ответ на: %s"
+
+#: inc/functions/template/woocommerce-template-functions.php:428
+msgid "No more products to show"
+msgstr "Нет больше продуктов, чтобы показать"
+
+#: inc/functions/template/woocommerce-template-functions.php:838
+#: inc/functions/template/woocommerce-template-functions.php:871
+msgid "Added to cart"
+msgstr "Добавлен в корзину"
+
+#: inc/functions/template/woocommerce-template-functions.php:885
+#: templates/global/pagination-normal.php:21 tpls/portfolio-listing.php:111
+#: tpls/search-results.php:97
+msgid "Previous"
+msgstr "Ранее"
+
+#: inc/functions/template/woocommerce-template-functions.php:886
+#: templates/global/pagination-normal.php:22 tpls/portfolio-listing.php:114
+#: tpls/search-results.php:98
+msgid "Next"
+msgstr "Далее"
+
+#: inc/functions/template/woocommerce-template-functions.php:1117
+#, php-format
+msgid "%s out of 5"
+msgstr "%s из 5"
+
+#: inc/functions/template/woocommerce-template-functions.php:1210
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Оценка %s из 5"
+
+#: inc/functions/template/woocommerce-template-functions.php:1224
+msgid "Payment method"
+msgstr "Способ оплаты"
+
+#: inc/functions/template/woocommerce-template-functions.php:1268
+msgid "Login or register"
+msgstr "Войти или Регистрация"
+
+#: inc/functions/template/woocommerce-template-functions.php:1270
+msgid "Login"
+msgstr "Авторизация"
+
+#: inc/functions/template/woocommerce-template-functions.php:1274
+msgid "Manage your account and see your orders"
+msgstr "Личный аккаунт и ваши заказы"
+
+#: inc/functions/template/woocommerce-template-functions.php:1356
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/functions/template/woocommerce-template-functions.php:1395
+msgid "Share this item:"
+msgstr "Поделиться:"
+
+#: inc/functions/template/woocommerce-template-functions.php:1472
+msgid "My Orders"
+msgstr "Мои заказы"
+
+#: inc/functions/template/woocommerce-template-functions.php:1473
+msgid "Your recent orders are displayed in the table below."
+msgstr "Недавние заказы отображаются в таблице ниже."
+
+#: inc/functions/template/woocommerce-template-functions.php:1488
+msgid "My Downloads"
+msgstr "Мои Загрузки"
+
+#: inc/functions/template/woocommerce-template-functions.php:1489
+msgid "Your digital downloads are displayed in the table below."
+msgstr "Цифровые загрузки отображаются в таблице ниже."
+
+#: inc/functions/template/woocommerce-template-functions.php:1570
+msgid "View full size"
+msgstr "Посмотреть полный размер"
+
+#: inc/functions/template/woocommerce-template-functions.php:1747
+msgid "Out of stock"
+msgstr "Нет в наличии"
+
+#: inc/functions/template/woocommerce-template-functions.php:1750
+msgid "Featured"
+msgstr "Рекомендуемый"
+
+#: inc/functions/template/woocommerce-template-functions.php:1753
+msgid "Sale!"
+msgstr ""
+
+#: inc/functions/template/woocommerce-template-functions.php:1836
+msgid "&laquo; Go back"
+msgstr "&laquo; Назад"
+
+#: inc/functions/template/woocommerce-template-functions.php:1851
+msgid "My account"
+msgstr "Мой аккаунт"
+
+#: inc/functions/template/woocommerce-template-functions.php:1852
+msgid "Edit your account details or change your password"
+msgstr "Редактировать свои данные или изменить пароль"
+
+#: inc/functions/template/woocommerce-template-functions.php:1864
+msgid "Edit information for this address type"
+msgstr "Редактировать информацию для этого адреса типа"
+
+#: inc/functions/template/woocommerce-template-functions.php:1901
+msgid "Addresses"
+msgstr ""
+
+#: inc/functions/woocommerce-functions.php:126
+msgid "(leave blank to leave unchanged)"
+msgstr "(не заполняйте чтобы оставить прежний)"
+
+#: inc/functions/woocommerce-functions.php:127
+msgid "Current password"
+msgstr "Действующий пароль"
+
+#: inc/laborator_filters.php:141 inc/laborator_functions.php:142
+msgid "Email"
+msgstr "e-mail"
+
+#: inc/laborator_functions.php:141
+#, php-format
+msgid "Check out what I just spotted: %s"
+msgstr "Проверьте что я только что заметил: %s"
+
+#: inc/laborator_functions.php:148
+msgid "Print"
+msgstr "Печать"
+
+#: inc/laborator_functions.php:1010 searchform.php:16 tpls/menu-mobile.php:55
+msgid "Search site..."
+msgstr "Поиск по сайту..."
+
+#: inc/laborator_portfolio.php:575
+msgid "Your browser does not support HTML5 video."
+msgstr "Ваш браузер не поддерживает HTML5-видео."
+
+#: inc/laborator_portfolio.php:893
+msgid "Show More"
+msgstr "Показать больше"
+
+#: inc/laborator_portfolio.php:894
+msgid "No more portfolio items to show"
+msgstr "Нет больше сообщений портфолио для отображения"
+
+#: inc/laborator_portfolio.php:1889
+#, php-format
+msgctxt "current portfolio subcategory"
+msgid "%s:"
+msgstr "%s:"
+
+#: inc/lib/post-link-plus.php:310
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: inc/lib/post-link-plus.php:310
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: inc/lib/vc/custom-font-icons.php:30
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/lib/vc/lab_contact_form/init.php:160
+msgid "Captcha verification failed, please try again!"
+msgstr ""
+
+#: inc/lib/vc/lab_contact_form/init.php:187
+#, php-format
+msgctxt "contact form subject"
+msgid "[%s] New Contact Form message has been received."
+msgstr "[%s] Новая форма контакта сообщение было получено."
+
+#: inc/lib/vc/lab_contact_form/init.php:194
+msgctxt "contact form"
+msgid "You have received new contact form message."
+msgstr "Вы получили новое сообщение в контактной форме:"
+
+#: inc/lib/vc/lab_contact_form/init.php:196
+msgctxt "contact form"
+msgid "----- Message Details -----"
+msgstr "----- Подробнее Сообщение -----"
+
+#: inc/lib/vc/lab_contact_form/init.php:213
+#, php-format
+msgctxt "contact form"
+msgid "This message has been sent from IP: %s"
+msgstr "Это сообщение было отправлено с IP: %s"
+
+#: inc/lib/vc/lab_contact_form/init.php:215
+#, php-format
+msgctxt "contact form"
+msgid "Site URL: %s"
+msgstr "URL сайта: %s"
+
+#: inc/lib/vc/lab_products_carousel/init.php:245
+msgid "Loading products..."
+msgstr "Загрузка продуктов..."
+
+#: searchform.php:15 searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: searchform.php:18 tpls/menu-mobile.php:61
+msgid "Go"
+msgstr "Перейти"
+
+#: tpls/header-main.php:331
+msgid "Search"
+msgstr "Поиск"
+
+#: tpls/portfolio-listing-title.php:80
+msgid "All"
+msgstr "Все"
+
+#: tpls/portfolio-single-5.php:79
+msgid "Click here to show project info"
+msgstr "Нажмите здесь, чтобы показать сведения о проекте"
+
+#: tpls/portfolio-single-6.php:35
+msgid "Open in Lightbox"
+msgstr "Открыть в Lightbox"
+
+#: tpls/portfolio-single-like-share.php:53
+msgid "Share"
+msgstr "Поделиться"
+
+#: tpls/portfolio-single-prevnext.php:64
+msgid "Previous project"
+msgstr "Предыдущий проект"
+
+#: tpls/portfolio-single-prevnext.php:65
+msgid "Next project"
+msgstr "Следующий проект"
+
+#: tpls/portfolio-single-prevnext.php:127
+msgid "Go to portfolio archive"
+msgstr "Перейти в портфель архив"
+
+#: tpls/search-results.php:22
+msgid "Click to change your search"
+msgstr "Нажмите, чтобы изменить условия поиска"
+
+#: tpls/search-results.php:28
+#, php-format
+msgid "%d results for “%s”"
+msgstr "%d результаты для «%s»"
+
+#: tpls/search-results.php:31
+#, php-format
+msgid "We have found one match with the word you searched."
+msgid_plural "We have found %d results with the word you searched."
+msgstr[0] "Мы нашли %d матч со словом вы искали."
+msgstr[1] "Мы нашли %d результатов со словом вы искали."
+msgstr[2] "Мы нашли %d результатов со словом вы искали."
+
+#: tpls/search-results.php:33
+msgid "There is nothing found that matches your search criteria."
+msgstr "Там нет ничего, что соответствует найдено вашим критериям поиска."
+
+#: tpls/search-results.php:79
+#, php-format
+msgid "Continue %s"
+msgstr ""
+
+#: tpls/wc-mini-cart.php:18
+msgid "Loading cart contents..."
+msgstr "Загрузка содержимого корзины…"
+
+#: tpls/wc-mini-cart.php:30
+#, php-format
+msgid "Your cart is empty! <a href=\"%s\">Go shopping &raquo;</a>"
+msgstr "Корзина пока пуста! <a href=\"%s\">Перейти к покупкам &raquo;</a>"
+
+#: tpls/wc-mini-cart.php:67
+msgid "Quantity"
+msgstr ""
+
+#: tpls/wc-mini-cart.php:100
+msgid "View Cart"
+msgstr "Перейти в корзину"
+
+#: tpls/wc-mini-cart.php:104
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: tpls/wc-mini-cart.php:110
+msgid "Subtotal"
+msgstr "Подытог"
+
+#: vc_templates/lab_blog_posts.php:225
+msgid "Loading blog posts..."
+msgstr "Загрузка сообщений в блоге..."
+
+#: vc_templates/lab_contact_form.php:51
+msgid "Please fill \"%\" field."
+msgstr "Пожалуйста, заполните поля \"%\"."
+
+#: vc_templates/lab_contact_form.php:51
+msgid "You must check privacy policy checkbox in order to submit the form."
+msgstr ""
+
+#: vc_templates/lab_message.php:57
+msgid "Close"
+msgstr "Close"
+
+#. Theme Name of the plugin/theme
+msgid "Kalium"
+msgstr "Kalium"
+
+#. Theme URI of the plugin/theme
+msgid "https://laborator.co/themes/kalium/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Start creating that amazing website that you have always wanted, only with "
+"Kalium — Connect with Laborator on:  <a href=\"https://themeforest.net/user/"
+"laborator\">Envato</a> &bull; <a href=\"https://twitter.com/thelaborator"
+"\">Twitter</a> &bull; <a href=\"https://www.facebook.com/laboratorcreative"
+"\">Facebook</a> &bull; <a href=\"https://www.instagram.com/laboratorcreative/"
+"\">Instagram</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Laborator"
+msgstr "Laborator"
+
+#. Author URI of the plugin/theme
+msgid "https://laborator.co/"
+msgstr ""
+
+#~ msgid "Logout"
+#~ msgstr "Выйти"
+
+#~ msgid "Continue &#65515;"
+#~ msgstr "Продолжить &#65515;"
+
+#~ msgid "No more posts to show"
+#~ msgstr "Нет больше сообщений для отображения"
+
+#~ msgid "Reset password"
+#~ msgstr "Сбросить пароль"
+
+#~ msgid "Lost password"
+#~ msgstr "Забыли свой пароль"
+
+#~ msgctxt "submit button"
+#~ msgid "Go"
+#~ msgstr "Перейти"
+
+#~ msgid "Password change"
+#~ msgstr "Смена пароля"
+
+#~ msgid "New password"
+#~ msgstr "Новый пароль"
+
+#~ msgid "Quantity: %s &times; <strong>%s</strong>"
+#~ msgstr "Количество: %s &times; <strong>%s</strong>"
+
+#~ msgid "Login or Register"
+#~ msgstr "Авторизуйтесь или зарегистрируйтесь"
+
+#~ msgid "Payment Method"
+#~ msgstr "Способ оплаты"
+
+#~ msgid "Reset Password"
+#~ msgstr "Задать пароль"
+
+#~ msgid "Lost Password"
+#~ msgstr "Забыли пароль"
+
+#~ msgid "My Account"
+#~ msgstr "Мой аккаунт"
+
+#~ msgid ""
+#~ "Designer, Architect, Photographer, Freelancer, Blogger, person who sell "
+#~ "goods online or just feeling creative, Kalium is absolutely what you have "
+#~ "been waiting for. Start creating that amazing website that you have been "
+#~ "dreaming of! You can find us on:  <a href=\"http://themeforest.net/user/"
+#~ "laborator\">Envato</a>, <a href=\"https://twitter.com/thelaborator"
+#~ "\">Twitter</a> or <a href=\"https://www.facebook.com/laboratorcreative"
+#~ "\">Facebook</a>."
+#~ msgstr ""
+#~ "Designer, Architect, Photographer, Freelancer, Blogger, person who sell "
+#~ "goods online or just feeling creative, Kalium is absolutely what you have "
+#~ "been waiting for. Start creating that amazing website that you have been "
+#~ "dreaming of! You can find us on:  <a href=\"http://themeforest.net/user/"
+#~ "laborator\">Envato</a>, <a href=\"https://twitter.com/thelaborator"
+#~ "\">Twitter</a> or <a href=\"https://www.facebook.com/laboratorcreative"
+#~ "\">Facebook</a>."
+
+#~ msgid "http://www.laborator.co/view-theme/kalium"
+#~ msgstr "http://www.laborator.co/view-theme/kalium"
+
+#~ msgid "%s at %s"
+#~ msgstr "%s на %s"
+
+#~ msgid "Password Change"
+#~ msgstr "Изменение пароля "
+
+#~ msgid "Current Password"
+#~ msgstr "Действующий пароль"
+
+#~ msgid "New Password"
+#~ msgstr "Новый пароль"
+
+#~ msgid "http://laborator.co/"
+#~ msgstr "http://laborator.co/"

@@ -1,0 +1,1517 @@
+- Version 2.9.4 – Nov 06, 2019 -
+
+    NEW: WordPress 5.3 compatibility added
+    NEW: WooCommerce 3.8.0 compatibility added
+    NEW: PHP 7.4 compatibility added (Applied for Kalium files only)
+
+    UPDATE: Advanced Custom Fields PRO plugin updated to latest version in theme package – 5.8.6
+    UPDATE: Product Filter for WooCommerce plugin updated to latest version in theme package - 7.2
+    UPDATE: Product Size Guide plugin updated to latest version in theme package – 3.4
+
+    NOTE 1: If WooCommerce release a plugin update that is newer than version 3.8.0
+    please wait for compatible theme update.
+
+    NOTE 2: If you want to contribute in our language translations here
+    is our GIT repository: https://github.com/arl1nd/Kalium-Translations
+
+
+- Version 2.9.3 – Oct 25, 2019 -
+
+    NEW: WPBakery Page Builder is now supported for WooCommerce products
+    NEW: Portfolio category description update on filter – https://d.pr/v/vUCXCr
+    NEW: Compatibility for WPBakery shortcodes with WPML page translator
+    NEW: Implementation of Flickity sliders for post galleries in blog section
+
+    UPDATE: WooCommerce 3.7.1 compatibility added
+    UPDATE: Advanced Custom Fields PRO plugin updated to latest version in theme package – 5.8.5
+    UPDATE: Revolution Slider plugin updated to latest version in theme package – 6.1.3
+    UPDATE: Layer Slider plugin updated to latest version in theme package – 6.9.2
+    UPDATE: Product Filter for WooCommerce plugin updated to latest version in theme package - 7.1.4
+    UPDATE: Google fonts and Font Squirrel fonts list updated to latest version on TypoLab
+    UPDATE: VideoJS library updated to latest version – 7.6.5
+    UPDATE: Lazysizes (lazy loader library) updated to latest version – 5.1.2
+
+    FIX: Portfolio items not able to edit with WPBakery Page Builder
+    FIX: Target _blank not working for "Team Member" element in WPB
+    FIX: Broken color pickers style in Theme Options – https://d.pr/i/vdklAI
+    FIX: Full background gallery for Side Portfolio item type not showing on 992 pixels screen size
+    FIX: PHP error showing when image meta information is unavailable
+    FIX: Radio buttons and checkboxes to work with Variation Swatches (WooCommerce plugin)
+    FIX: Elementor social icons broken icon layout in our containers
+    FIX: Having to click twice to go to portfolio item (on iOS devices)
+    FIX: Hover on portfolio item redirects to portfolio item without showing hover layer (Android devices)
+    FIX: Multiple carousels crashing on Safari browser on iOS devices
+    FIX: Clicking fullscreen menu link not hiding the container
+    FIX: PHP warning showing when custom hover icon in blog is missing
+    FIX: Fullwidth header logo and menu margin applied on mobile
+    FIX: Skin cannot be saved on WordPress.com websites
+    FIX: Adobe Fonts not working on front end
+    FIX: General bug fixes and performance improvements
+
+
+- Version 2.9.2 – Aug 14, 2019 -
+
+    NEW: WooCommerce 3.7 compatibility added
+    NEW: Option to select default portfolio category to filter – https://d.pr/i/4a0n52 https://d.pr/i/OzradK https://d.pr/i/mlZoq0
+    NEW: Option to select default portfolio item type – https://d.pr/i/nzShb3
+    NEW: Option to set carousel transition type for Product Images – https://d.pr/i/k7XNHR
+    NEW: Header styling options – https://d.pr/i/DFwVEg https://d.pr/i/8YqMfN
+    NEW: Twitch and WhatsApp added on Social Networks Links  – https://d.pr/i/1YvV9H
+    NEW: WhatsApp share option for Blog post, Portfolio item and Product page – https://d.pr/i/x8SSjQ
+    NEW: Slovak translation thanks to Martin Rusina
+
+    UPDATE: Advanced Custom Fields PRO plugin updated to latest version in theme package – 5.8.3
+    UPDATE: WPBakery Page Builder plugin updated to latest version in theme package – 6.0.5
+    UPDATE: Revolution Slider plugin updated to latest version in theme package – 6.0.9
+    UPDATE: Layer Slider plugin updated to latest version in theme package – 6.9.0
+    UPDATE: Product Filter for WooCommerce plugin updated to latest version in theme package - 7.0.8
+    UPDATE: Vimeo JS library updated to latest version – 2.10.0
+    UPDATE: Lazysizes (lazy loader library) updated to latest version – 5.1.1
+    UPDATE: Flickity library updated to latest version – 2.2.1
+    UPDATE: ScrollMagic library updated to latest version – 2.0.7
+    UPDATE: Google fonts and Font Squirrel fonts list updated to latest version on TypoLab
+    UPDATE: Czech translations thanks to Martin Rusina
+    UPDATE: Demo Content Packages updated to latest version
+
+    FIX: Header padding on IE11 when search icon is present
+    FIX: Added padding for left and right edge elements on fullwidth header
+    FIX: Cannot install premium bundled plugins by uploading files directly without activating the theme
+    FIX: Animation still working on devices that had reduce motion enabled in their Accessibility settings
+    FIX: Portfolio items not appearing on IE11
+    FIX: General improvements and bug fixes
+
+
+- Version 2.9.1 – Jul 03, 2019 -
+
+    NEW: Option to show/hide product attributes on single page – https://d.pr/i/nzuCQy
+
+    UPDATE: Advanced Custom Fields PRO plugin updated to latest version – 5.8.1
+    UPDATE: WPBakery Page Builder updated to latest version – 6.0.3
+    UPDATE: Product Filter for WooCommerce updated to latest version – 7.0.7
+    UPDATE: Layer Slider updated to latest version – 6.8.4
+    UPDATE: Google Fonts list updated, new fonts added
+    UPDATE: Demo Content Packages updated to latest version
+
+    UPDATE: VideoJS library updated to latest version – 7.5.5
+    UPDATE: VideoJS Share library updated to latest version – 3.2.1
+    UPDATE: Lazysizes (lazy loader library) updated to latest version – 5.1.0
+    UPDATE: Perfect Scrollbar library updated to latest version – 1.4.0
+    UPDATE: Vimeo JS library updated to latest version – 2.9.1
+
+    FIX: Order by attribute not working correctly when using AJAX pagination for shop page
+    FIX: Added rel='noopener' to _blank links to improve security
+    FIX: Inability to expand sub menu items in mobile menu
+    FIX: Get system status report not working (JavaScript error)
+    FIX: PHP notice when using Social Networks shortcode and when updating premium plugin
+    FIX: Lightbox in portfolio items not working when images have question mark after file name
+    FIX: Widgets not imported with Main Demo Content package
+    FIX: General improvements and bug fixes
+
+
+- Version 2.9 – May 13, 2019 -
+
+    NEW: New demo: Bookstore demo site – https://demo.kaliumtheme.com/bookstore
+    NEW: WordPress 5.2 compatibility added
+    NEW: WooCommerce 3.6 compatibility added
+    NEW: Option to show hover layer without icon – https://d.pr/i/RnFjoU
+
+    UPDATE: Advanced Custom Fields PRO plugin updated to latest version – 5.8.0
+    UPDATE: Layer Slider updated to latest version – 6.8.3
+    UPDATE: Product Filter for WooCommerce updated to latest version – 7.0.3
+    UPDATE: Product Size Guide updated to latest version – 3.2
+    UPDATE: Demo Content Packages updated to latest version
+
+    FIX: Outdated WooCommerce templates notice
+    FIX: Contact form email obfuscation from robots
+    FIX: Improvements for 1-Click Demo Content Installer
+    FIX: Variable product "select options" link not showing in grouped product type
+    FIX: Rel="noopener" added for Social Networks shortcode
+    FIX: Options and Parameters not showing after ACF PRO update
+    FIX: Post Type Order version 1.9 issue with portfolio items ordering
+    FIX: WPBakery content not executed after Product Filter AJAX request
+    FIX: PHP Notice in Typography > Font Sizes page
+    FIX: Page borders animation stuck when initial page scroll is below page header
+    FIX: Fonts Conditional loading not working properly
+    FIX: Skin colors applied to elements who needed to be styled
+    FIX: Improved Automotive demo content import
+    FIX: General improvements and bug fixes
+
+    REMOVED: Google Plus and Vine social networks removed
+
+
+- Version 2.8 – Mar 5, 2019 -
+
+    UPDATE: WordPress 5.1 compatibility added
+    UPDATE: WooCommerce 3.5.5 compatibility added
+    UPDATE: WPBakery Page Builder updated to latest version – 5.7
+	UPDATE: Revolution Slider updated to latest version – 5.4.8.3
+	UPDATE: Layer Slider updated to latest version – 6.8.1
+    UPDATE: Advanced Custom Fields PRO plugin updated to latest version – 5.7.12
+    UPDATE: Product Size Guide updated to latest version – 3.1
+    UPDATE: Google fonts and Font Squirrel fonts list updated to latest version on TypoLab
+	UPDATE: ScrollMagic library updated to latest version – 2.0.6
+	UPDATE: Light Gallery library updated to latest version – 1.6.12
+	UPDATE: Lazysizes (lazy loader library) updated to latest version – 4.1.6
+
+    FIX: Compatibility with ACF PRO 5.7.11 and 5.7.12
+    FIX: Dutch translation for "next blog post" corrected
+    FIX: Changelog link not showing when new update for Kalium is available – https://d.pr/i/w6ba4Q
+    FIX: General improvements and bug fixes
+
+
+- Version 2.7.6 – Feb 7, 2019 -
+
+    NEW: New demo: Wedding demo site – https://demo.kaliumtheme.com/wedding
+
+    UPDATE: Compatibility with ACF PRO 5.7.10
+	UPDATE: Revolution Slider updated to latest version – 5.4.8.2
+    UPDATE: WooCommerce Product Filter updated to latest version – 6.6.5
+	UPDATE: VideoJS library updated to latest version – 7.4.1
+	UPDATE: VideoJS Share library updated to latest version – 3.0.0
+	UPDATE: Lazysizes (lazy loader library) updated to latest version – 4.1.5
+	UPDATE: Demo Content Packages updated to latest version
+
+    FIX: Dribbble portfolio items to work with new API
+    FIX: Bundled plugins showing "Download failed. Forbidden" error
+    FIX: Corrected Russian translation for previous and next post strings
+    FIX: Invalid menu scrolling offset when admin bar is present
+    FIX: General improvements and bug fixes
+
+
+- Version 2.7.5 – Dec 12, 2018 -
+
+    NEW: New demo: Medical demo site – https://demo.kaliumtheme.com/medical
+    NEW: Custom Font Upload option on TypoLab – https://d.pr/i/PhgT10
+    NEW: Adobe Fonts include interface for TypoLab – https://d.pr/i/S8JjZF
+    NEW: Option to hide captions in portfolio gallery items – https://d.pr/i/eZzuzH
+    MEW: Option to include/exclude excerpt from Blog Posts WPB widget – https://d.pr/i/AKaEIl
+
+    UPDATE: WordPress 5.0 compatibility added
+    UPDATE: WooCommerce 3.5.2 compatibility added
+    UPDATE: WPBakery Page Builder updated to latest version – 5.6
+	UPDATE: Revolution Slider updated to latest version – 5.4.8.1
+    UPDATE: WooCommerce Product Filter updated to latest version – 6.6.4
+    UPDATE: Advanced Custom Fields PRO plugin updated to latest version – 5.7.8
+    UPDATE: Google fonts and Font Squirrel fonts list updated to latest version on TypoLab
+
+    FIX: Blog posts widget broken columns on Safari
+    FIX: Removed admin related links from Kalium admin bar for basic user roles
+    FIX: Ninja forms JS errors (incompatibilities) when building forms
+    FIX: Product Filters not applied when using Infinite Scroll pagination
+    FIX: General improvements and bug fixes
+
+    * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+    Enjoy the holidays, we’ll see again in January 2019 with more of our own New Year’s resolutions, new features and improvements.
+    As always, feel free to share feedback and questions via our support system.
+    Happy holidays to everyone!
+
+    * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+- Version 2.7.1 – Nov 30, 2018 -
+
+    FIX: Undefined variable "_k" that breaks JS functionality
+    FIX: Mobile carousel not applied for plain product images
+
+
+- Version 2.7 – Oct 30, 2018 -
+
+    NEW: New demo: Law demo site – https://demo.kaliumtheme.com/law
+    NEW: Flickity carousel implementation for Product Gallery – https://d.pr/BYOQC3
+    NEW: Add to cart link for products in search page – https://d.pr/i/7u0MSE https://d.pr/i/ly5fMZ
+
+    UPDATE: WooCommerce 3.5.0 compatibility added
+    UPDATE: WPBakery Page Builder updated to latest version – 5.5.5
+    UPDATE: WooCommerce Product Filter updated to latest version – 6.6.2
+    UPDATE: Product Size Guide updated to latest version – 3.0
+	UPDATE: Lazysizes (lazy loader library) updated to latest version – 4.1.4
+	UPDATE: Animate.css library updated to latest version – 3.7.0
+	UPDATE: Light Gallery library updated to latest version – 1.6.11
+    UPDATE: VideoJS library updated to latest version – 7.2.1
+	UPDATE: Demo Content Packages updated to latest version
+
+    FIX: WooCommerce warning on Checkout after installing 3.5.0
+    FIX: Tab groups not showing when creating new portfolio item – https://d.pr/i/gjLr8n
+    FIX: Double variation image appearing on single product carousel
+    FIX: Author name missing in author archive page – https://d.pr/i/x21B9L
+    FIX: Tags vertical spacing on single blog page – https://d.pr/i/QeOIvB
+    FIX: Blog posts rows on WPB widget breaking upon text size
+    FIX: Contact form backslashes before quotes are now stripped
+    FIX: JS errors when editing a page on frontend WPB editor
+	FIX: General bug fixes and performance improvements
+
+
+- Version 2.6.2 – Oct 9, 2018 -
+
+    UPDATE: Advanced Custom Fields PRO plugin updated to latest version – 5.7.7
+    UPDATE: WooCommerce Product Filter updated to latest version – 6.6.1
+    UPDATE: Reorganised theme package files
+    UPDATE: Google fonts list updated to latest version on TypoLab
+
+    FIX: ACF PRO failed to update
+    FIX: Parameters and Options not working with ACF 5.7.6 and 5.7.7
+    FIX: Slider not imported on Hotel demo content
+    FIX: Minor bug fixes and improvements
+
+
+- Version 2.6.1 – Sep 26, 2018 -
+
+    NEW: Remote updates for bundled plugins
+    NEW: Decreased file size for installable theme file (kalium.zip) 3 MB (previously 26MB)
+
+    FIX: YouTube videos not showing in some cases
+
+
+- Version 2.6 – Sep 20, 2018 -
+
+    NEW: ACF Pro implementation, faster and better organization of custom fields
+
+    UPDATE: WPBakery Page Builder updated to latest version – 5.5.4
+    UPDATE: Google fonts list updated to latest version on TypoLab
+
+    FIX: Some custom fields not showing in ACF 5
+    FIX: Custom CSS not imported properly on Education Demo
+    FIX: Minor improvements and bug fixes
+
+
+- Version 2.5.3 – Aug 16, 2018 -
+
+    UPDATE: WooCommerce 3.4.4 compatibility added
+    UPDATE: WordPress 4.9.8 compatibility added
+    UPDATE: WooCommerce Product Filter updated to latest version – 6.6.0
+    UPDATE: Product Size Guide updated to latest version – 2.8
+    UPDATE: ACF fields updated to latest version – 2.1.0
+    UPDATE: Google fonts and Font Squirrel fonts list updated to latest version on TypoLab
+    UPDATE: VideoJS library updated to latest version – 7.2.1
+
+    IMPROVE: When TypoLab is turned OFF a warning  will appear – https://d.pr/i/wMhfrf
+
+    FIX: YouTube controls appearing twice on VideoJS – https://d.pr/i/sVrrlL
+    FIX: Skin colors applied to elements who needed to be styled
+    FIX: Audio posts showing unassigned audio files in blog posts
+    FIX: Other bug fixes and code improvements
+
+
+- Version 2.5.2 – Jul 07, 2018 -
+
+	UPDATE: WordPress 4.9.7 compatibility added
+
+    FIX: Custom CSS applying extra backslashes
+    FIX: Envato Hosted site activation issues
+    FIX: Warning will be shown when skin is not writable – https://d.pr/i/yl4JYx
+    FIX: Other small improvements
+
+
+- Version 2.5.1 – Jul 03, 2018 -
+
+	UPDATE: WPBakery Page Builder updated to latest version – 5.5.2
+	UPDATE: Revolution Slider updated to latest version – 5.4.8
+	UPDATE: VideoJS library updated to latest version – 7.0.3
+
+	FIX: Custom CSS not being imported for Architecture demo
+	FIX: Custom CSS for Automotive demo content not imported properly
+	FIX: Footer not shifted when sidebar menu is opened
+	FIX: Autoplay for muted videos
+
+	To all American citizens Laborator wishes you happy Fourth of July!
+
+
+- Version 2.5 – Jun 08, 2018 -
+
+	NEW: New demo concept: Hotel – https://demo.kaliumtheme.com/hotel/
+	NEW: Redesigned demo concept: Architecture – https://demo.kaliumtheme.com/architecture/
+	NEW: Option to select portfolio items title on WPBakery Page Builder – https://d.pr/i/4iKurf
+	
+	UPDATE: WooCommerce 3.4.2 compatibility added
+	UPDATE: Revolution Slider updated to latest version – 5.4.7.4
+	UPDATE: Layer Slider updated to latest version – 6.7.6
+	UPDATE: WooCommerce Product Filter updated to latest version – 6.5.8
+	UPDATE: Google fonts and Font squirrel list updated with latest fonts (25 new fonts)
+	UPDATE: Demo Content Packages updated to latest version
+
+	FIX: Current playing videos not paused when another video is played 
+	FIX: Variation swatch error for WooCommerce Variation Swatches and Photos plugin
+	FIX: Ninja forms warning in the beginning of the form
+	FIX: Image captions not showing in product image lightbox – https://d.pr/i/zQss4e
+	FIX: Blurry product thumbnails (gallery) – https://d.pr/i/MVkkLx
+	FIX: Sticky description in portfolio item creating blank space
+	FIX: Go to top alignment issues when set to center
+	FIX: Bacs details breaking layout when order is completed
+	FIX: Password hint showing unstyled in WooCommerce account page
+	FIX: Map style JavaScript error showing when using an old version of map style code
+	FIX: Division by zero in when custom hover layer icon is not assigned
+	FIX: No spacing not working for Portfolio Page with 5 columns
+	FIX: Twitter share URL mismatch when logged in on Twitter
+	FIX: Improvements on System Status page
+	FIX: General bug fixes and performance improvements
+	
+	
+- Version 2.4 – May 09, 2018 -
+
+	NEW: New demo concept: Automotive – https://demo.kaliumtheme.com/automotive/
+	NEW: WooCommerce Product Filter plugin (worth of 35$) included in the theme
+	NEW: WPML translations compatibility with Kalium WPB Page Builder elements
+	NEW: External posts with _blank target will open in new window
+	NEW: Option to disable (or enable) Custom CSS – https://d.pr/i/V6k9Nb
+	NEW: Use Theme lightbox for WPB grid items as well – https://d.pr/i/ub3P6Y
+	NEW: Lightbox supported for Single Image element (WPB) and image carousel as well – https://d.pr/i/MxdxXs
+	NEW: Added spacing option for "Visible Titles" of portfolio items – https://d.pr/i/ZrqGKU
+	NEW: GDPR compatible contact form – https://d.pr/i/qBOXL5 https://d.pr/i/CXuLHT
+	NEW: Captcha verification (reCAPTCHA) support for contact form – https://d.pr/i/eYHmNm
+	
+	UPDATE: Revolution Slider updated to latest version – 5.4.7.3
+	UPDATE: Product Size Guide updated to latest version – 2.7
+	UPDATE: Light Gallery library updated to latest version – 1.6.9
+	UPDATE: Lazysizes (lazy loader library) updated to latest version – 4.0.2
+	UPDATE: Isotope and Packery library updated to latest version
+	UPDATE: VideoJS library updated to latest version – 6.8.0
+	
+	FIX: Portfolio items (no spacing) occasionally showing weird 1 pixel gap
+	FIX: GIF images not animated on portfolio featured image and other sections
+	FIX: Custom URL avatars not showing in single post page
+	FIX: Isotope .destroy() method throwing an error on various pages
+	FIX: WPB Video element not working on front-end – https://d.pr/i/c2S6hU
+	FIX: Size guide issue with HTTPS protocol – https://d.pr/i/U9KDvK
+	FIX: Portfolio fullwidth issues
+	FIX: Autoplay pause not working on light gallery box
+	FIX: Redirect to cart function PHP notice – https://d.pr/i/D3yJTg
+	FIX: Fluidbox warning on single post page – https://d.pr/i/sc5i0O
+	FIX: Wrapper height change when side menu is clicked – https://d.pr/v/oQrWgN
+	FIX: Price not styled properly when sticky description for products is selected
+	FIX: Reveal effect hiding "placeholder member" on team members page – https://d.pr/i/Zka7CJ
+	FIX: Light gallery poster cut in half – https://d.pr/i/zuWcIk
+	FIX: Some images not visible when printing the page
+	FIX: Few skin colors are now properly assigned
+	FIX: General bug fixes and performance improvements
+	
+	
+- Version 2.3.3 – Mar 14, 2018 -
+	
+	FIX: WooCommerce Product Filter (PrcdtFltr) compatibility issues
+	FIX: Z-index issue when viewing videos in fullscreen mode
+	FIX: Undefined variable in kalium-videojs.php on line 365 error
+	
+	
+- Version 2.3.2 – Mar 10, 2018 -
+
+	IMPORTANT FIX: Contact form being submitted in some cases
+	
+
+- Version 2.3.1 – Mar 09, 2018 -
+
+	UPDATE: WPBakery Page Builder updated to latest version – 5.4.7
+	
+	FIX: Content overflow when using WPBakery Page Builder shortcodes in portfolio, posts and shop 
+	FIX: Product page shortcode not showing images gallery
+	FIX: Few skin colors are now properly assigned
+	
+
+- Version 2.3 – Mar 08, 2018 -
+	
+	NEW: Shop section code refactoring, better performance and easier to customize
+	NEW: Shop hooks, customize look and feel of Shop section with WP Hooks – inc/hooks/woocommerce-template-hooks.php
+	NEW: Rewritten image parsing library for better performance and user experience
+	NEW: Share option for Video/Audio elements – https://d.pr/i/lrJCFz
+	NEW: Redesigned WooCommerce demo store notice – https://d.pr/i/W36gAy
+	NEW: 3 new animated loaders for image placeholders – https://d.pr/v/YEo6rS
+	NEW: Option to select YouTube player type – https://d.pr/i/qJ4juB
+	NEW: Option to show sidebar before products on mobile viewport – https://d.pr/i/WBjajk
+	NEW: Variable product shows select field on catalog mode as well – https://d.pr/i/jqSVgU
+	NEW: Auto-play and loop option for Vimeo videos in portfolio items – https://d.pr/i/u7xkQG
+
+	UPDATE: PHP 7.2 compatibility (Applied for Kalium files only)
+	UPDATE: Revolution Slider updated to latest version – 5.4.7.1
+	UPDATE: Layer Slider updated to latest version – 6.7.1
+	UPDATE: Demo Content Packages updated to latest version
+	UPDATE: ACF fields updated to latest version – 2.0.1
+	UPDATE: Google fonts and Font squirrel list updated with latest fonts
+	UPDATE: WooCommerce dummy images (demo content) updated to latest version
+	UPDATE: VideoJS library updated to latest version – 6.7.4
+	UPDATE: Light Gallery library updated to latest version – 1.6.7
+	UPDATE: Slick Slider updated to latest version – 1.8.0
+	UPDATE: Animate.css library updated to latest version – 3.6.0
+	
+	FIX: Product variation showing incorrect image on lightbox
+	FIX: Envato hosted license information not showing on Product Registration page
+	FIX: Marker info window not expanding on Map element
+	FIX: Inner row padding applied to parent row
+	FIX: Videos not showing on accordions and tabs
+	FIX: Social networks icon margin on blog post - https://d.pr/i/jYlfHK
+	FIX: Smooth scrolling applied for WPB sections as well – https://d.pr/v/DPCBin
+	FIX: Clicking member box will open the assigned link – https://d.pr/i/ksmqWI
+	FIX: Auto-play and loop attributes are now applied to Vimeo videos as well
+	FIX: General bug fixes and performance improvements
+
+
+- Version 2.2 – Jan 12, 2018 -
+
+	NEW: New demo: Restaurant site – https://demo.kaliumtheme.com/restaurant/
+	NEW: Single product images (plain) showing in carousel mode on mobile devices – https://d.pr/xiUIZU
+	NEW: Option to enable or disable image placeholders in blog loop  – https://d.pr/i/1blVtp
+	NEW: Columns gap for masonry blog template – https://d.pr/i/l2TAio
+	
+	UPDATE: Layer Slider updated to latest version – 6.6.7
+	UPDATE: Updated Italian translations
+	
+	FIX: Clicking links requires two taps on touch devices
+	FIX: Featured image assigned automatically to YouTube/Vimeo videos on blog posts
+	FIX: Carousel portfolio item issue with image max height on mobile devices
+	fIX: Products carousel columns per row on mobile device not applied
+	FIX: Blog post excerpt length increased when blog columns is set to 1 column
+	FIX: Theme borders causing header logo and menu bar to break on mobile devices
+	FIX: Date format not applied on blog posts when setting in General > Settings
+	FIX: Animated GIFs not working in Google Map pins
+	FIX: Other bug fixes and code refinements
+	
+	REMOVED: Typography support from theme options – https://d.pr/i/gPu6HN
+	
+	Acknowledgements
+	
+	* Thanks to Alice (@alcegraphics) for contribution on Italian language.
+	
+
+- Version 2.1.6 – Dec 14, 2017 -
+
+	UPDATE: Demo Content Packages updated to latest version
+	UPDATE: WPBakery Page Builder updated to latest version – 5.4.5
+	UPDATE: Revolution Slider updated to latest version – 5.4.6.4
+	UPDATE: Layer Slider updated to latest version – 6.6.5
+	UPDATE: Product Size Guide updated to latest version – 2.6
+
+	FIX: Code Editor now displays errors on Custom CSS page – http://d.pr/i/LXS4uP	
+	FIX: Mini cart selecting on Safari – http://d.pr/i/BwSb8e
+	FIX: Category widget dropdown showing screen reader text
+	FIX: General bug fixes and performance improvements
+	
+	
+- Version 2.1.5 – Nov 21, 2017 -
+
+	NEW: New demo: Construction site – https://demo.kaliumtheme.com/construction/
+	NEW: Gallery widget is now supported with Kalium
+
+	UPDATE: WordPress 4.9 compatibility added
+	UPDATE: Visual Composer updated to latest version – 5.4.4
+	UPDATE: Revolution Slider updated to latest version – 5.4.6.3.1
+	UPDATE: Layer Slider updated to latest version – 6.6.3
+	UPDATE: Product Size Guide updated to latest version – 2.5
+	UPDATE: Light Gallery library updated to latest version – 1.6.5
+	
+	FIX: Lightbox share url showing different featured image
+	FIX: Search products text in WooCommerce widget not translatable
+	FIX: Clicking Reviews link (in single product) will show Reviews tab as well
+	FIX: Color pickers in Theme Options broken in WordPress 4.9
+	FIX: Related Products hover showing gallery arrows for all products at once – https://d.pr/I68faj
+	FIX: Logo not aligned correctly on RTL sites
+	FIX: Fixed some "hentry" issues reported previously for better SEO
+	FIX: Sometimes videos on sidebar showing wrong thumbnail
+	FIX: Laborator Blog Posts WPB element not generating alt/title tag
+	FIX: General bug fixes and performance improvements
+	
+
+- Version 2.1.4 – Oct 20, 2017 -
+
+	NEW: Rich text editor for Zig Zag portfolio gallery entries – https://d.pr/klR5ZZ
+
+	UPDATE: Visual Composer updated to latest version – 5.4.2
+	UPDATE: Revolution Slider updated to latest version – 5.4.6.2
+	UPDATE: Layer Slider updated to latest version – 6.6.0
+	UPDATE: Light Gallery library updated to latest version – 1.6.2
+	UPDATE: Google fonts and Font squirrel list updated with latest fonts
+	
+	FIX: Added IDN (internationalized domain names) support when activating the theme
+	FIX: Lightbox portfolio item redirecting to single page issue
+	FIX: Visual Composer video player extra bottom margin
+	FIX: WCML multi currency and product filter plugin not working properly with Kalium's infinite scroll
+	FIX: General bug fixes and performance improvements
+	
+	
+- Version 2.1.3 – Aug 31, 2017 -
+
+	UPDATE: WooCommerce 3.1.2 compatibility added
+	UPDATE: Layer Slider updated to latest version – 6.5.8
+	
+	FIX: Draft posts showing in homepage
+	FIX: Previous and next post links not working properly with WPML
+	FIX: Videos height in Visual Composer element fixed according to selected ratio
+	FIX: Double featured images shown when variation is selected in single product page
+	FIX: Recent product reviews widget not showing items properly
+	FIX: Go to top link overlay when lightbox is showing
+	FIX: General bug fixes and performance improvements
+	
+
+- Version 2.1.2 – Aug 11, 2017 -
+
+	NEW: Yelp and TripAdvisor social networks added – https://d.pr/xT9Wk7
+
+	UPDATE: WooCommerce 3.1.1 compatibility added
+	UPDATE: Visual Composer updated to latest version – 5.2.1
+	UPDATE: Layer Slider updated to latest version – 6.5.7
+	UPDATE: Revolution Slider updated to latest version – 5.4.5.2
+	UPDATE: Google Fonts updated, new fonts added
+	UPDATE: Language files updated with latest theme strings
+	
+	FIX: Portfolio external links opens twice when clicked
+	FIX: Heading color not applied on blog title with skin generator
+	FIX: WooCommerce site wide store notice extra padding remaining in the header
+	FIX: Variation not possible to click when using tablet screen size
+	FIX: Skin colors applied to elements who needed to be styled
+	FIX: Small bug fixes and code improvements
+
+
+- Version 2.1.1 – Jul 11, 2017 -
+
+	NEW: Remote translations (all Kalium translations will be installed/updated from our Git repository)
+	
+	UPDATE: Visual Composer updated to latest version – 5.2
+	
+	FIX: Isotope bundled with Visual Compser incompatibility with Kalium
+	FIX: LayerSlider "Update package not available" error fixed
+	FIX: Minor bug fixes and improvements
+	
+
+- Version 2.1 – Jun 30, 2017 -
+
+	NEW: New demo: Travel site – https://demo.kaliumtheme.com/travel/
+	NEW: Blog section code refactoring, better performance and easier to customize
+	NEW: Blog hooks, customize look and feel of Blog section with WP Hooks – inc/hooks/blog-template-hooks.php
+	NEW: New home for Kalium template files: /templates via kalium_get_template( 'file-name.php' ) – Read more: https://d.pr/w1GolB
+	NEW: Remote translations – once you activate, latest Kalium translations will be downloaded or updated
+	NEW: Share portfolio item is now supported for lightbox items as well – https://d.pr/5dBHz
+	NEW: WPML switcher is now supported on mobile menu – https://d.pr/dVfOqS
+	NEW: Sidebar styles, choose from plain, bordered or background sidebars – https://d.pr/MiAdBH
+	NEW: Font case option added in TypoLab – https://d.pr/CuoZpc
+	NEW: Support for video, audio and images on widgets
+	NEW: Important update notes warning – https://d.pr/EGZEJP
+	NEW: Custom Sidebars plugin compatibility
+	NEW: New front-end language support: Finnish (By Okko Alitalo)
+	NEW: New code editor in Custom CSS for better user experience – https://d.pr/sULm6h
+	NEW: Full PHP 7 compatibility
+	
+	UPDATE: WooCommerce 3.1.0 compatibility added
+	UPDATE: WordPress 4.8 compatibility added
+	UPDATE: Google fonts and Font Squirrel fonts list updated to latest version on TypoLab
+	UPDATE: Revolution Slider updated to latest version – 5.4.5.1
+	UPDATE: Layer Slider updated to latest version – 6.5.1
+	UPDATE: Demo Content Packages updated to latest version
+	UPDATE: Light Gallery library updated to latest version – 1.4.0
+	UPDATE: VideoJS library updated to latest version – 5.19.2
+	UPDATE: Language files updated with latest theme strings
+	
+	IMPORTANT FIX: 2 security issues (Authenticated reflected XSS and MySQL injection for older versions)
+	
+	FIX: Fixed activation issue on IE/Edge browsers
+	FIX: Light Gallery auto-play issue fixed, issue – https://d.pr/iZu3Rt
+	FIX: Smooth scroll auto-highlight issue on certain cases (Landing demo)
+	FIX: Translation issues with WooCommerce 3.0.8 and 3.0.9 versions
+	FIX: Shop Settings not appearing when WooCommerce was activated on WP multisite
+	FIX: Forbidden direct access to Kalium PHP files – https://d.pr/el9XAJ
+	FIX: TypoLab not supporting CSS selectors with attributes exampe: a[href="#"]
+	FIX: TGMPA plugin issue – https://d.pr/TNLrMN
+	FIX: Fixed an issue with TypoLab when importing new fonts
+	FIX: Loop videos option not working
+	FIX: Opening product image in lightbox always shows the first product image
+	FIX: Portfolio full width container not applied when page borders are visible
+	FIX: General bug fixes and performance improvements
+	
+	NOTE: The new blog structure will not work with replaced templates on child theme – Read more: https://d.pr/w1GolB
+
+	Acknowledgements
+	
+	* Special thanks to WpHtte (wphutte.com) for reporting two critical security issues for Kalium
+	* Also we thank our Kalium user Okko Alitalo for translating it to Finnish language
+	
+
+- Version 2.0.7 – Apr 21, 2017 -
+	
+	NEW: Kalium now supports WooCommerce 3 with some new options
+	NEW: Cross sells are now supported on cart page – http://d.pr/QoXV
+	NEW: Improved Product Gallery with new Zoom, Gallery View and mobile features – http://d.pr/2nVx
+	NEW: Options to enable or disable product lightbox and zoom from theme options – http://d.pr/l23J
+	NEW: Multiple speed and performance improvements which you’re most likely to notice if you have a larger store
+	NEW: Support for Light gallery lightbox for VC Image gallery and masonry media grid – http://d.pr/u5HB
+	NEW: Improved Help page with updated articles – http://d.pr/AZXh
+	
+	UPDATE: WooCommerce 3.0.4 compatibility added
+	UPDATE: WordPress 4.7.4 compatibility added
+	UPDATE: Visual Composer updated to latest version – 5.1.1
+	UPDATE: Revolution Slider updated to latest version – 5.4.3
+	UPDATE: Layer Slider updated to latest version – 6.3
+	UPDATE: Language files updated with latest theme strings
+	
+	FIX: Incorrect license data appearing after importing demo content
+	FIX: Revolution Slider purchase code could not be registered when user purchased the plugin
+	FIX: Scrolling issue on touch devices (block and delay on scrolling)
+	FIX: Smooth scroll links not working when LayerSlider is activated
+	FIX: General bug fixes and performance improvements
+	
+	REMOVED: Sidekick plugin removed from required plugins, if you want to use this plugin you can simply install it for free on the plugins section
+	
+	NOTE 1: Laborator recommends to not update WooCommerce newer than 3.0.3 before we release compatible version of that version
+	
+	NOTE 2: If you can't update any premium plugin that comes with our theme, go to Plugins &gt; Installed Plugins and delete that plugin then install it from Install Plugins page again.
+	
+	NOTE 3: If you want to contribute in our language translations here is our GIT repository: https://github.com/arl1nd/Kalium-Translations
+	
+
+- Version 2.0.6.1 – Mar 31, 2017 -
+	
+	UPDATE: Layer Slider updated to latest version – 6.2.2
+	
+	
+- Version 2.0.6 – Mar 28, 2017 -
+	
+	NEW: Yelp social network added – http://d.pr/IsM7
+	
+	UPDATE: Light Gallery library updated to latest version – 1.3.9
+	UPDATE: Fluidbox updated to latest version – 2.0.5
+	
+	FIX: Double "Open Graph" data showing when Yoast plugin is activated
+	FIX: Vimeo videos not showing after 2.0.5 update
+	FIX: YouTube videos with "youtu.be" URL are now supported
+	FIX: AutoType extra margin on right side text
+	FIX: Dropdown caret for menu items
+	FIX: Minor bug fixes and improvements
+	
+
+- Version 2.0.5 – Mar 25, 2017 -
+
+	NEW: 120+ articles on theme documentation http://documentation.laborator.co/kb/kalium/
+	NEW: Support for embedding Instagram, Twitter, SoundCloud, Issuu, Tumblr and other objects
+	
+	UPDATE: Visual Composer updated to latest version – 5.1
+	UPDATE: Revolution Slider updated to latest version – 5.4.1
+	UPDATE: Layer Slider updated to latest version – 6.2
+	UPDATE: Product Size Guide updated to latest version – 2.1
+	UPDATE: French, Italian and German language strings updated. Thanks to Stefano Tombolini for contribution on Italian language.
+	UPDATE: Description improvements in Theme Options and Laborator's Visual Composer elements
+	
+	FIX: Client logos ordering in edit page leading to missing rows – http://d.pr/jLr3
+	FIX: Before-after image element on portfolio not working sometimes – http://d.pr/UwYK
+	FIX: One-page scroll issue for touch devices
+	FIX: JavaScript errors on maintenance and coming soon pages – http://d.pr/n6Ra
+	FIX: Portfolio categories are shown all when using WPML plugin
+	FIX: Clicking the search icon not showing search-results page http://d.pr/XC7k
+	FIX: Fashion demo required Portfolio Post Type plugin http://d.pr/mbTc
+	FIX: General bug fixes and performance improvements
+	
+	
+- Version 2.0.4 – Jan 20, 2017 -
+
+	NEW: Demo content images now are more organized and colorful – http://d.pr/8hHH
+
+	UPDATE: WordPress 4.7.1 compatibility added
+	UPDATE: WooCommerce 2.6.13 compatibility added
+	UPDATE: Demo Content Packages updated to latest version
+	UPDATE: 12 new fonts added to "Font Squirrel" font source in Typolab
+	UPDATE: 7 new fonts added to "Google Fonts" font source in Typolab
+	
+	FIX: Huge performance improvements on back-end (decreased execution time)
+	FIX: High execution time when using child theme and custom skin at the same time
+	FIX: Sticky menu disappearing when is disabled on mobiles (autohide only)
+	FIX: Theme activation not working when OpenSSL is older version <1.0
+	FIX: Unexpected token in joinable file error is now fixed (happens in older versions of PHP/5.3.3)
+	FIX: Shop sidebar broken on viewport size 992 and 768
+	FIX: Clicking on product thumbnail on single page shows different image
+	FIX: Predefined loading placeholders not showing in Theme Options page
+	FIX: Lightbox self-hosted video could not play on Safari
+	FIX: Some issues with TypoLab conditional loading and Font Squirrel font source
+	FIX: Typolab $typolab_assets_url showing wrong URL on windows servers
+	
+
+- Version 2.0.3.1 – Dec 17, 2016 -
+	
+	FIX: ACF couldn't be activated
+	FIX: Fixes for PHP 5.2.x
+	
+
+- Version 2.0.3 – Dec 16, 2016 -
+	
+	FIX: Product activation popup not loading in Safari and Firefox
+	FIX: Last column of each row in visual composer shown in new line
+	FIX: Some of the theme options not applying given value
+	FIX: Child theme installation issue
+	FIX: Product registration page error
+	FIX: Syntax errors on PHP 5.3.x or earlier versions
+	
+
+- Version 2.0 – Dec 15, 2016 -
+	
+	NEW: Fashion Demo – stylish fashion store demo – http://demo.kaliumtheme.com/fashion/
+	NEW: Premium Font "Function Pro" (149$ value) included for FREE
+	NEW: TypoLab – Ultimate Font Management Tool – http://d.pr/6rZP - http://d.pr/Wf2N – http://d.pr/qGvY
+	NEW: Kalium front-end is now translated in 15 different languages – http://d.pr/pZgF
+	NEW: Built-in RTL Support
+	NEW: Font size management for sections of the theme – http://d.pr/wpCK
+	NEW: Theme backups for each update – http://d.pr/iUIp
+	NEW: Kalium What's New page, learn more about new changes each time Kalium is updated – http://d.pr/sl6z
+	NEW: Automatic updates for activated copies of Kalium – http://d.pr/p3vU
+	NEW: Detailed System Status Information about your hosting environment, usable for troubleshooting – http://d.pr/X1G8
+	NEW: Search field in header – http://d.pr/Cyxm - http://d.pr/H1Ku
+	NEW: Sticky header animate with scroll wheel duration and other new options – http://d.pr/7QsE
+	NEW: Custom breakpoint for mobile menu – http://d.pr/6Bns
+	NEW: Full screen menu type for mobile devices is now supported – http://d.pr/rUbR
+	NEW: Premium plugin "WooCommerce Product Size Guide" included – http://d.pr/MIJB
+	NEW: WPML Language Switcher in Header – http://d.pr/ZFxF - http://d.pr/rGnX
+	NEW: Logo switch on custom sections for sticky header – http://d.pr/N0ct - http://d.pr/nGmI
+	NEW: Colored social networks support – http://d.pr/BEIg - http://d.pr/dELB
+	NEW: Custom fields grouping supported for ACF Pro as well – http://d.pr/jngG
+	NEW: Compatibility for "WooCommerce Additional Variation Images" plugin – http://d.pr/bsUg
+	NEW: Page options also supported for WooCommerce products – http://d.pr/LUJQ
+	NEW: Search results with thumbnails – http://d.pr/Pm98 - http://d.pr/3Ynx
+	NEW: Use given subject for VC Contact Form element  – http://d.pr/xCjr
+	NEW: Option to remove URL prefix from portfolio items – http://d.pr/1chve
+	NEW: Option to show two products per row in mobile devices – http://d.pr/FJsw
+	NEW: Option to enable or disable comments on blog posts – http://d.pr/MB9r
+	NEW: Arrow key navigation in Carousel portfolio type – http://d.pr/95CB
+	NEW: Shop single image stretch to the browser edge – http://d.pr/2Urz - http://d.pr/C4BO
+	NEW: Sidebar in single blog is now supported – http://d.pr/oZoV 
+	NEW: Sidebar in single product page is now supported – http://d.pr/hMUD
+	NEW: Portfolio gallery captions below the image – http://d.pr/1LV4 - http://d.pr/khXz - http://d.pr/8AiZ
+	NEW: Heading font tag for Laborator Heading element in Visual Composer – http://d.pr/Jme6
+	NEW: Team members with visible bottom titles – http://d.pr/KCRy - http://d.pr/8GW
+	NEW: Holidays slider – available in extras folder
+	
+	UPDATE: WordPress 4.7 compatibility added
+	UPDATE: WooCommerce 2.6.9 compatibility added
+	UPDATE: Visual Composer updated to latest version – 5.0.1
+	UPDATE: Revolution Slider updated to latest version – 5.3.1.5
+	UPDATE: Layer Slider updated to latest version – 6.1.0
+	UPDATE: Demo Content Packages updated to latest version
+	UPDATE: FontAwesome icons updated to latest version – 4.7
+	UPDATE: VideoJS library updated to latest version – 5.12.6
+	UPDATE: Light Gallery library updated to latest version – 1.3.7
+	UPDATE: Lazy loader plugin updated to latest version – 2.0.7
+	UPDATE: Fluidbox updated to latest version – 2.0.4
+	
+	FIX: AutoType element now supports ampersand character &amp;
+	FIX: Custom skin is now supported for WordPress Multisite 
+	FIX: Added Kalium child theme after reported missing in main theme files
+	FIX: Contact form sending progress bar freezing at around 90%
+	FIX: Animated eye on hover not working when post formats are disabled
+	FIX: Menu functionality issues for inline scrollable elements (used in "Landing" page demo)
+	FIX: Loading spinner showing on videos even after video was fully loaded – http://d.pr/1i6j2
+	FIX: Shop category showing only 3 categories per row
+	FIX: Full screen horizontal centered menu not aligning in the same row in Firefox
+	FIX: Removed site wide store notice that was showing in maintenance or coming soon mode
+	FIX: Issues with image heights in Carousel portfolio type, when columns gap is specified
+	FIX: WooCommerce Price Filter widget not showing price filtered results for endless pagination
+	FIX: Portfolio lightbox opening when clicking on categories
+	FIX: WooCommerce demo store notice was not styled
+	FIX: Mobile Menu logo width not working
+	FIX: Submenu overlapping when opening from right edge – http://d.pr/CTDG
+	FIX: Pagination alignment not applied in shop pages
+	FIX: Masonry portfolio column 5 width
+	FIX: Product not showing custom image when variation is selected
+	FIX: Many more bug fixes and improvements
+	
+	REMOVED: Reveal effect for column, VC implemented native CSS animations – http://d.pr/SGIo
+	REMOVED: Full width row option removed, replaced with native VC options – http://d.pr/xt93
+	
+
+- Version 1.9.5.1 – Nov 03, 2016 -
+
+	UPDATE: Layer Slider updated to latest version – 6.0.3
+	
+	FIX: Portfolio lightbox not working for some users
+    
+
+- Version 1.9.5 – Nov 01, 2016 -
+	
+	UPDATE: WooCommerce 2.6.7 compatibility added
+	UPDATE: Revolution Slider updated to latest version – 5.3.0.2
+	UPDATE: Layer Slider updated to latest version – 6.0.2
+	UPDATE: Light Gallery library updated to latest version – 1.2.22
+
+	FIX: Latest carousel products not showing on first page load
+	FIX: Sticky description in single product page not working
+	FIX: Auto scroll menu links in "Landing Page" demo not working
+	FIX: Product variation dropdown not being updated with the selected item
+	FIX: Animated eye icon not displaying properly on touch devices
+	
+
+- Version 1.9.4.2 – Sep 15, 2016 -
+
+	NEW: Auto play videos when they are shown in Viewport – http://d.pr/14qHd
+	NEW: Support for adaptive images in portfolio lightbox too
+	NEW: Theme updates checker in Theme Options – http://d.pr/1lUMW
+	NEW: Portfolio lightbox now supports back and forth navigation (browser buttons)
+	
+	UPDATE: Visual Composer updated to latest version – 4.12.1
+	UPDATE: Light Gallery library updated to latest version – 1.2.22
+	UPDATE: 100 new fonts added on Google fonts library
+	
+	FIX: Videojs error "No compatible source was found" fixed for all videos
+	FIX: Full width gallery images in portfolio hidden under the border
+	FIX: Few tweaks and bug fixes
+	
+
+- Version 1.9.4.1 – Sep 06, 2016 -
+
+	UPDATE: VideoJS library updated to latest version – 5.11.6
+
+	FIX: Portfolio next/prev navigation issue in some PHP versions
+	FIX: Broken style of Theme Options in Safari browser only
+	FIX: Client Logos VC widget issue with image height
+	FIX: General bug fixes and performance improvements
+	
+
+- Version 1.9.4 – Aug 24, 2016 -
+
+	NEW: Fitness and Education demo, two new professionally designed demos joined the list – http://d.pr/1h0cu
+	NEW: Custom image preloaders: static, preselected loaders and custom loader – http://d.pr/1elE8
+	NEW: Automatically adapt your existing website images for mobile devices – http://d.pr/1i1Rt
+	NEW: Portfolio gallery columns gap distance – http://d.pr/1iZhA
+	NEW: Product image transition effect for default layout type – http://d.pr/1l4ia
+	NEW: Custom hover layer icon for Visible Title portfolio items and Blog posts – http://d.pr/1gDoD
+	NEW: Option to show/hide Sidebar menu submenu indicator – http://d.pr/1g6oS
+	NEW: Option to show/hide Standard menu submenu indicator – http://d.pr/1f1Tw
+	NEW: Post featured image will appear in Google Search Results - http://d.pr/16EEM
+	NEW: Custom portfolio archive URL for single portfolio item page – http://d.pr/jDm4
+	NEW: Ability to add sliders or VC content in blog and shop page – 
+	NEW: Portfolio head title will be changed from theme options – http://d.pr/1iWPL
+	NEW: Little UI improvements in Theme Options – http://d.pr/15YbZ
+	NEW: New image lazy loading library for better experience and SEO
+	
+	UPDATE: WordPress 4.6 compatibility added
+	UPDATE: WooCommerce 2.6.4 Compatibility added
+	UPDATE: Demo Content Packages updated to latest version
+	UPDATE: Bootstrap updated to latest version – v3.3.7
+	UPDATE: VideoJS library updated to latest version – 5.11.1
+	UPDATE: Animate.css library updated to latest version – 3.3.0
+	UPDATE: Layer Slider updated to latest version – v5.6.10
+	
+	FIX: Sticky menu logo transition bug
+	FIX: SVG logo not working in Sticky Menu
+	FIX: Google Map with custom style cannot be edited in backend
+	FIX: Lightbox portfolio item not opening in single page
+	FIX: Font icons being called separately, this way doing more HTTP requests
+	FIX: Google API key is now applied on backend as well
+	FIX: Search keyword not appearing in search page
+	FIX: Poster image for video blog posts was blurry
+	FIX: Password protected pages will not have Absolute Header anymore
+	FIX: Small layout problems on WooCommerce Checkout page
+	FIX: Clicking category inside thumbnail not setting active filter
+	FIX: Author info in blog post making links non functional in main content
+	FIX: Bug fixes here and there, to show you how much we care
+	
+
+- Version 1.9.3 – Jul 05, 2016 -
+	
+	NEW: Option to set number of columns for Related/Up-sells products — http://d.pr/WCoo
+	NEW: Option to add API key for Google Maps – http://d.pr/1dV6p
+	NEW: Removed unnecessary strings from language file, consisting on 55% smaller size
+	
+	UPDATE: WooCommerce 2.6.2 Compatibility added
+	UPDATE: Language files updated with latest theme strings
+	
+	FIX: Portfolio items VC item not showing in page preview mode
+	FIX: Shop columns clearing not working properly
+	FIX: Videos not being played on full blog page
+	FIX: Related products still showing even after turning them off
+	FIX: Minor bug fixes and CSS improvements
+	
+
+- Version 1.9.2 – June 29, 2016 -
+
+	NEW: AJAX handling of cart page in WooCommerce
+	NEW: "My account" tabs for better account navigation – http://d.pr/17RZU
+	NEW: Fullscreen menu can apply or disable opacity – http://d.pr/3lXY
+	NEW: Email as social network icon shortcode – http://d.pr/H1SN
+	NEW: Option to change custom icon for Custom Link in social networks - http://d.pr/1iFU2
+	
+	UPDATE: WordPress 4.5.3 compatibility added
+	UPDATE: WooCommerce 2.6.1 Compatibility added
+	UPDATE: Demo Content Packages updated to latest version
+	UPDATE: Visual Composer updated to latest version – 4.12
+	UPDATE: Revolution Slider updated to latest version – 5.2.6
+	UPDATE: VideoJS library updated to latest version – 5.10.6
+	
+	FIX: YouTube thumbnails in Visual Composer
+	FIX: Absolute header position and custom css not working in Shop page
+	FIX: Email and Facebook share post link not working in mobile
+	FIX: Endless scroll in shop category showing duplicate products
+	FIX: Sticky menu issue when using top menu (active)
+	FIX: Responsive issue on iPad on blog with sidebar page
+	FIX: Bug fixes here and there, to show you how much we care
+    
+
+- Version 1.9.1 – June 01, 2016 -
+
+	UPDATE: Revolution Slider updated to latest version – 5.2.5.3
+	
+	FIX: Weird issue with main CSS file that breaks page styling
+	FIX: Portfolio filter not applying current category for lightbox portfolio items
+	FIX: Minor fixes that came along with 1.9
+	
+
+- Version 1.9 – May 28, 2016 -
+	
+	NEW: Restructured portfolio codebase for better performance, handling and great new features
+	NEW: Demo content for "Landing" site added to 1-click-installer
+	NEW: Portfolio full width option added (including VC widget as well) – http://d.pr/14oJd
+	NEW: More portfolio columns: 1,5,6 items per row – http://d.pr/15fB6
+	NEW: Set custom previous/next links for portfolio items - http://d.pr/1iQPS
+	NEW: Portfolio filter now also supports numbers i.e. 2013, 2014, 2015 and so on
+	NEW: Portfolio filter links now also supports pushState (Absolute URLs) – http://d.pr/FKg2
+	NEW: Intelligent logo switcher when header is over revolution slider – http://d.pr/166Vp
+	NEW: Portfolio Like + Share can be added in Visual Composer Portfolio Item – http://d.pr/HJlF
+	NEW: Endless pagination is now supported for Portfolio VC Widget – http://d.pr/1g1p2
+	NEW: Pretty permalinks support for portfolio categories 
+	NEW: Portfolio carousel images can have now maximum height – http://d.pr/1jIcT
+	NEW: Portfolio "Like" icon can be displayed as heart, star or thumbs up – http://d.pr/1f7aJ
+	NEW: Full width Portfolio Page option added – http://d.pr/12CLX
+	NEW: Full width Header option added – http://d.pr/dZUW
+	NEW: Full width Footer option added – http://d.pr/1u1w
+	NEW: Open graph images are now supported, sharing URL-s on social networks will properly render featured image
+	NEW: Social networks shortcode comes in two variants now: rounded and plain text – http://d.pr/zgwT
+	NEW: New implementation of sticky menu, stable at every device with shadow + border option – http://d.pr/18Fh2
+	NEW: Set custom vertical padding for header – http://d.pr/1bakW
+	NEW: Option to set maximum width for logo in mobile – http://d.pr/jLsi
+	NEW: WooCommerce Products widget on Visual Composer now supports 2,3,4,5 and 6 columns
+	NEW: Character set support for Google Fonts – http://d.pr/14Cgr
+	NEW: Premium plugins update notification will appear in admin bar – http://d.pr/1h4iH
+	NEW: Snapchat link added to Social Networks - http://d.pr/1az8y
+	NEW: You can now translate coming soon page countdown days/hours/minutes/seconds
+	NEW: Removed unnecessary strings from language file, consisting on 65% smaller size
+	NEW: Envato – Theme & Plugin management for the Envato Market
+	NEW: Option to add custom JavaScript in head tag – http://d.pr/1gAZw
+	NEW: Option to to show five columns/row of widgets in footer – http://d.pr/1iUAe
+	NEW: Option to hide featured image in single blog post – http://d.pr/16kqi
+	NEW: Option to show like+share after gallery in Zig Zag portfolio type item – http://d.pr/18FAe
+	NEW: Option to link portfolio archive URL with current portfolio category – http://d.pr/1bioW
+	NEW: Social media links comes in two variants: plain text and rounded icons – http://d.pr/1evpL
+	NEW: Latest Instagram icon for Social Networks has been added – http://d.pr/WIcV
+	
+	UPDATE: WordPress 4.5.2 compatibility added
+	UPDATE: Demo Content Packages updated to latest version
+	UPDATE: Revolution Slider updated to latest version – 5.2.5.2
+	UPDATE: Layer Slider updated to latest version – v5.6.8
+	UPDATE: VideoJS library updated to latest version – 5.10.2
+	UPDATE: FontAwesome icons updated to latest version – 4.6.3
+	UPDATE: Language files updated with latest theme strings
+	UPDATE: TGMPA plugin updater updated to latest version
+	UPDATE: Improved user experience in Theme Options
+	UPDATE: Theme screenshots on WP Themes tab
+	
+	FIX: Fixed Masonry Portfolio position calculation for better alignment of items
+	FIX: Portfolio Lightbox items not opening when loaded from endless pagination
+	FIX: Clicking on portfolio category under the title, will now sort items with JavaScript
+	FIX: Image/attachment alignment inside VC text block element
+	FIX: Twitter sharing link not working on iOS
+	FIX: Sharing items on Tumblr not working
+	FIX: Improved some sections of Theme Options
+	FIX: Opacity issue on the Carousel Portfolio Type
+	FIX: Sticky description for portfolio and shop items in some cases was buggy
+	FIX: Auto-play feature on YouTube play not working in portfolio
+	FIX: Responsive improvements
+	FIX: General bug fixes and performance improvements
+        
+    
+- Version 1.8.9.1 – Apr 28, 2016 -	
+
+	UPDATE: WordPress 4.5.1 compatibility added
+	UPDATE: Visual Composer updated to latest version – 4.11.2.1
+	UPDATE: Revolution Slider updated to latest version – 5.2.5
+	UPDATE: Layer Slider updated to latest version – v5.6.6
+	
+	FIX: XSS vulnerability in shop page
+	FIX: Pagination issue with portfolio items (endless scroll)
+	
+
+- Version 1.8.9 – Apr 15, 2016 -	
+
+	UPDATE: WordPress 4.5 compatibility added
+	UPDATE: Visual Composer updated to latest version – 4.11.2
+	UPDATE: Revolution Slider updated to latest version – 5.2.4.1
+	UPDATE: Layer Slider updated to latest version – v5.6.4
+	
+	FIX: Taxonomy ordering (frontend) for portfolio items
+	FIX: Minor bug fixes and improvements
+	
+	
+- Version 1.8.8.1 – Mar 16, 2016 -
+
+	UPDATE: Revolution Slider updated to latest version – 5.2.2
+	
+	FIX: Few minor bugs appeared in 1.8.8
+	
+	
+- Version 1.8.8 – Mar 13, 2016 -
+
+	NEW: Portfolio lightbox navigation settings – http://d.pr/v2S9
+	NEW: Xing and Spotify social networks added – http://d.pr/1eDyL
+
+	UPDATE: WooCommerce 2.5.5 Compatibility added
+	UPDATE: Revolution Slider updated to latest version – 5.2.1
+	UPDATE: Visual Composer updated to latest version – 4.11
+	UPDATE: Isotope (portfolio filtering) library updated to latest version – 2.2.2
+	UPDATE: Language files updated with latest theme strings
+	
+	FIX: Custom skin taking long time to load on front end
+	FIX: External post format link not working
+	FIX: Portfolio filter not working on category page
+	FIX: Custom logo on "Blog" page not being applied
+	FIX: Vimeo videos playing in background in lightbox portfolio
+	FIX: Videos not playing when lighbox is disabled in single portfolio page
+	FIX: Zoom effect when toggling mobile menu when theme borders are shown
+	FIX: Portfolio lightbox showing sometimes incorrect image on click
+	FIX: Visual Composer vertical text alignment now works properly
+	FIX: Large blank space on footer when using Fixed Footer
+	FIX: Taxonomy order plugin not sorting categories
+	FIX: Many other bug fixes and improvements
+    
+	
+- Version 1.8.7.1 – Feb 20, 2016 -
+	
+	FIX: Portfolio items with visible titles not clickable
+	FIX: Contact form alert showing when no errors are present
+    
+
+- Version 1.8.7 – Feb 19, 2016 -
+	
+	NEW: SideKick implementation – interactive user guide tutorials for Kalium
+	NEW: YouTube playlists are now supported in Portfolio Gallery
+	NEW: Option to enable "portfolio tags" on admin area – http://d.pr/1dZaz
+
+	UPDATE: WordPress 4.4.2 Compatibility added
+	UPDATE: WooCommerce 2.5.2 Compatibility added
+	UPDATE: Visual Composer updated to latest version – 4.10
+	UPDATE: Layer Slider updated to latest version – v5.6.3
+	FIX: Images Carousel responsive layout fix
+	FIX: Google maps library enqueued needlessly
+	FIX: Many other bug fixes and improvements
+    
+
+- Version 1.8.6 – Jan 29, 2016 -
+
+	UPDATE: WordPress 4.4.1 Compatibility added
+	UPDATE: WooCommerce 2.5.1 Compatibility added
+	UPDATE: Visual Composer updated to latest version – 4.9.2
+	UPDATE: Revolution Slider updated to latest version – 5.1.6
+	UPDATE: VideoJS library updated to latest version – 5.6.0
+
+	FIX: Term translations not being applied for Portfolio Categories (filter)
+    FIX: General improvements and bug fixes
+
+
+- Version 1.8.5 – Dec 18, 2015 -
+	
+	NEW: Better organising of Theme Options with Tabs – http://d.pr/1hGfz
+	NEW: Grouped meta boxes for better user experience – http://d.pr/9MCT
+	NEW: "Visual Composer" portfolio item type added – http://d.pr/17ErH
+	NEW: Custom CSS text area inside post edit page now recognises tabs - http://d.pr/1lzey
+	
+	UPDATE: Revolution Slider updated to latest version – 5.1.5
+	UPDATE: Slick Slider updated to latest version – 1.5.9
+	UPDATE: GreenSock Animation Platform updated to latest version – 1.18.1
+	UPDATE: VideoJS library updated to latest version – 5.4.4
+	UPDATE: FontAwesome icons updated to latest version – 4.5
+	UPDATE: Google Fonts list updated – 51 new fonts in the list – http://d.pr/18dwz
+	
+	FIX: Lightbox white skin on mobile devices
+    FIX: General improvements and bug fixes
+    
+    ** Happy Holidays from Laborator, next year will be full of surprises for our customers **
+    
+	
+- Version 1.8.2 – Dec 12, 2015 -
+	
+	FIX: Portfolio category with endless pagination showing other items
+	FIX: Small bug fixes
+
+- Version 1.8.1 – Dec 10, 2015 -
+
+	NEW: Theme Options UX improvements for mobile users – http://d.pr/1iGAb
+	NEW: Organised Kalium main downloadable file structure – http://d.pr/1hIRZ
+	NEW: Save Settings button in theme options is now sticky – http://d.pr/I3Gz
+	NEW: Contact form message and subject filters added – http://d.pr/Dc2V
+	NEW: Some festive Holidays elements through the theme :)
+
+	UPDATE: WordPress 4.4 Compatibility added
+	UPDATE: WooCommerce 2.4.11 Compatibility added
+	UPDATE: Visual Composer updated to latest version – 4.9
+	UPDATE: "Go to Top" options moved from "Footer" to "Other Settings" in Theme Options
+	
+	FIX: Endless Scroll issue with hidden items
+	FIX: Theme Options broken layout on WordPress 4.4
+    FIX: Bug fixes here and there, just to show you how much we care.
+	
+
+- Version 1.8 – Dec 5, 2015 -
+
+	NEW: Long awaited “Photography" demo content added, Yaaaay!
+	NEW: Go to Top feature added (Theme Options > Footer) – http://d.pr/1fyQu
+	NEW: Custom background image option for Maintenance and Coming Soon Mode pages – http://d.pr/152Yt
+	NEW: "Lightbox" portfolio item type added (used on Photography Demo) – http://d.pr/1chmB
+	NEW: Auto hide sticky menu (Theme Options > Header and Menu) – http://d.pr/1jUR6
+	NEW: Portfolio sub categories are now supported – http://d.pr/15s4G
+	NEW: Blog "author info" placement on the bottom of article (Theme Options > Blog Settings) – http://d.pr/1gIWN
+	NEW: Video options "auto-play" and "loop" added to Portfolio Item Gallery – http://d.pr/1iNdu
+	NEW: Manage global video options (Theme Options > Other Settings) – http://d.pr/17Dco
+	NEW: Hamburger menu now can have text instead of horizontal bars (Header and Menu) – http://d.pr/F6QY
+	NEW: Dynamic portfolio items spacing for portfolio items with titles inside – http://d.pr/19QC8
+	NEW: Support for Ninja Forms plugin added – http://d.pr/1hJ1K
+	NEW: HTML row type for portfolio item types: Side, Columned and Zig Zag Zig – http://d.pr/1bq14
+	NEW: Custom portfolio category URL prefix (slug) – http://d.pr/1cqc1
+	NEW: Set custom skin for sticky menu in specific page – http://d.pr/1kom2
+	NEW: Proportional thumbnails on blog loop (Theme Options > Blog Settings) – http://d.pr/10Gnr
+	NEW: Auto play option for Video and Audio post formats (Blog) – http://d.pr/1hKVI
+	NEW: Title position option added (before or after) for Columned Portfolio type – http://d.pr/19NrU
+	NEW: Option to show portfolio subtitles for loop items (Theme Options > Portfolio Settings) – http://d.pr/1ezyX
+	NEW: Option to hide search field on mobile menu (Theme Options > Header and Menu) – http://d.pr/4EqF
+	NEW: Option to disable sticky menu on mobile (Theme Options > Header and Menu) – http://d.pr/15Nm3
+	NEW: Option to show or hide footer on specific page/post item – http://d.pr/VR0T
+	NEW: Option to remove VC row bottom margin – http://d.pr/zF1k
+	NEW: Option to open social networks links in new tab (Theme Options > Social Networks) – http://d.pr/1lMSN
+	NEW: Option to make featured image "full-width" for Columned portfolio item – http://d.pr/10vOw
+	NEW: WooCommerce Quantity Increment plugin added to suggested plugins list
+	NEW: When changing portfolio item type fields are automatically updated – http://d.pr/iFew
+	NEW: Added "Item type" column and filter for portfolio items on back-end – http://d.pr/lTIX
+	NEW: Filter "kalium_logo_url" added for site logo in case you want a custom logo URL
+	NEW: Kalium theme "ZIP file" size has been reduced up to 45% smaller size (37MB~ before, 20MB~ now)
+	NEW: Other small details that will make you love Kalium even and more
+	
+	UPDATE: Visual Composer updated to latest version – v4.8.1
+	UPDATE: Revolution Slider updated to latest version – v5.1.4
+	UPDATE: WooCommerce 2.4.10 Compatibility added
+	UPDATE: Bootstrap updated to latest version – v3.3.6
+	UPDATE: VideoJS library updated to latest version – v5.2.1
+	UPDATE: Less.php parser updated to latest version – v1.7.0.9
+	UPDATE: Language files updated with latest theme strings
+	UPDATE: GreenSock Animation Platform updated to latest version – v1.18.0
+	
+	FIX: Removed #cat:category-slug category filter URL for better SEO
+	FIX: Duplicated content for Audio and Video posts removed from single post
+	FIX: Featured image not showing in single portfolio – http://d.pr/1k2w6
+	FIX: Visual Composer full-width rows on portfolio items (single page) not working properly
+	FIX: Sticky menu improvements and bug fixes
+	FIX: Custom skin generating "Error 404"
+	FIX: Map markers now supports links and other HTML markup again
+	FIX: Video backgrounds are now supported in VC rows
+	FIX: Image size not applied on Portfolio with Visible Titles loop page
+	FIX: Dribbble portfolio works with newest API of Dribbble (requiring to generate access token)
+	FIX: Portfolio item (loop) like button not aligned properly in mobile when set on center
+	FIX: Retina cursor for fullscreen portfolio item (example: http://d.pr/1bZge)
+	FIX: Second image on Carousel Portfolio item type now works on Firefox and Safari
+	FIX: Fixed not clickable links in single portfolio on iPad (landscape view)
+	FIX: Left sidebar on shop causing products to not display on iPad (portrait mode)
+	FIX: Portfolio page set as front page not inheriting portfolio page options
+	FIX: Portfolio category filter will show only available categories for the current query
+	FIX: Grouped product quantity buttons fixed on mobile screens
+	FIX: Google maps sensor JavaScript notice removed from console
+	FIX: Checkout form State country not styled
+	FIX: Sub menus opening from the left side when there is no space on the right
+	FIX: Visual Composer container removed extra margin on mobile devices
+	FIX: Sidebar Menu type not opening on iPad (medium screen devices)
+	FIX: Number of portfolio items not being applied on Portfolio Page template
+	FIX: Shortcodes are now supported on Maintenance Mode and Coming Soon Mode pages
+	FIX: Images on blog posts not showing when Lazy Loading is disabled
+	FIX: An issue with "Image Post Format" causing image not to show
+	FIX: Horizontal scroll issue on homepage removed
+	FIX: Full screen slider bottom gap removed
+	FIX: YouTube and self hosted videos not working on touch devices
+	FIX: Pagination links not clickable on Blog page (standard pagination mode)
+	FIX: Mobile menu not showing on iPad Retina & iPad 2
+	FIX: Portfolio Category filter issues with empty results
+	FIX: Custom CSS not being applied in Posts Page
+	FIX: Many more minor overall improvements every aspect of theme
+	
+	TL;DR: Little improvements here and there to show you just how much we care
+	
+	Special thanks to Ceslav (bluechip1) for bug fixes and suggestions
+    
+
+- Version 1.7.2 – Oct 5, 2015 -
+	
+	UPDATE: Urgent security vulnerability fix applied for Visual Composer
+	UPDATE: Visual Composer updated to latest version – v4.7.4
+	
+
+- Version 1.7.1 – Oct 1, 2015 -
+	
+	FIX: Reported issue with portfolio thumbnails
+	
+	
+- Version 1.7 – Oct 1, 2015 -
+
+	NEW: Custom portfolio URL prefix (slug) – http://d.pr/17y6e
+	NEW: Predefined thumbnail size support for portfolio listing images – http://d.pr/19AP4
+	
+	UPDATE: WooCommerce 2.4.7 Compatibility added
+	UPDATE: Visual Composer updated to latest version – v4.7.3
+	UPDATE: Revolution Slider updated to latest version – v5.0.9
+	UPDATE: Demo Content Packages updated to latest version
+	UPDATE: Vimeo for VideoJS updated to latest version
+	UPDATE: Theme FAQ's updated on Appearance > Theme Help
+	UPDATE: Child theme code reconstruction
+
+	FIX: Row elements duplicate background issue
+	FIX: Image comparison slider bug in mobile devices
+	FIX: WOW.js not working in Safari 5.1 and some Firefox versions
+	FIX: Captions alignment for portfolio images in mobile screens
+	FIX: Other minor CSS improvements
+	
+
+- Version 1.6.1 – Sep 23, 2015 -
+	
+	FIX: New skin implementation not working in some cases – http://d.pr/gSkT
+	
+	If skin is not being applied then check the box under "Custom Skin Builder" and
+	click Save changes to fix this issue.
+	
+
+- Version 1.6 – Sep 22, 2015 -
+
+	NEW: Now you can download theme PSD's with purchase code – http://themes.laborator.co/psd
+	NEW: New box sizes (9 columns) for portfolio masonry added (9x6, 9x4, 9x6)
+	NEW: Custom skins are now supported when WP Super Cache plugin is active
+	NEW: Disable clicking for specific portfolio posts – http://d.pr/1bdgg
+	NEW: Houzz and 500px links added to Social Networks - http://d.pr/1eMe3
+	NEW: Option to show "next-previous" links (portfolio) with item titles – http://d.pr/15qnA
+	NEW: Support for animated eye icon on blog – http://d.pr/1h11S
+	NEW: Option to disable Images Lightbox for portfolio items – http://d.pr/1jALi
+	NEW: Captions inside images in portfolio items can now have links – http://d.pr/7xTG
+	NEW: Support for image captions in carousel portfolio item type
+	NEW: Support for portfolio categories ordering by using this plugin – http://d.pr/1jirB
+	
+	UPDATE: Wordpress 4.3.1 compatibility
+	UPDATE: Visual Composer updated to latest version – v4.7.1.1
+	UPDATE: Layer Slider updated to latest version – v5.6.2
+	UPDATE: Revolution Slider updated to latest version – v5.0.8.5
+	UPDATE: Less.php parser updated to latest version – v1.7.0.5
+	UPDATE: Language files updated with latest theme strings
+	UPDATE: FontAwesome updated to v4.4
+	UPDATE: JavaScript libraries included in joinable.js updated to latest versions
+	UPDATE: Demo Content Packages updated to latest version
+	UPDATE: AutoType plugin updated to latest version
+	UPDATE: New tabs and accordions are styled properly with theme style
+	
+	FIX: Reduced the size of portfolio thumbnails for about 30% (same quality)
+	FIX: Portfolio items ordering not working properly on "Portfolio Page" template
+	FIX: Items ordering in portfolio template custom query not working
+	FIX: Page options (ACF) forms not showing invalid content and not usable
+	FIX: Portfolio posts being duplicated in Endless scroll pagination type
+	FIX: Hover underline not working properly in latest version of Chrome
+	FIX: Maintenance and Coming Soon pages showing unformatted title
+	FIX: Masonry portfolio shortcode not working properly in VC 4.7
+	FIX: Masonry layout boxes not being aligned as they were sorted in backed
+	FIX: Skin colors applied to elements who needed to be styled
+	FIX: Custom logo for pages not working on all post types
+	FIX: Submenu indicator icon aligned to right
+	FIX: Images slider bug in slider post format
+	FIX: Standard menu links underline not appearing on hover
+	FIX: Sticky menu immediate scroll activation not working properly with custom logo
+	FIX: Standard Menu: Hamburger icon appearing before 768px screen width
+	FIX: Many, many more improvements and bug fixes
+	
+
+- Version 1.5.2 – Sep 1, 2015 -
+
+	NEW: Ability to entirely disable lazy loading for images – http://d.pr/19uBD
+
+	UPDATE: WordPress 4.3.x Compatibility
+	UPDATE: Visual Composer updated to latest version – v4.7
+	UPDATE: Revolution Slider updated to latest version – v5.0.5
+	UPDATE: Layer Slider updated to latest version – v5.5.1
+	UPDATE: Demo Content Packages updated to latest version
+	UPDATE: Download link for PSD files in Extras folder
+	
+	FIX: Menu item with /portfolio not having "current" state
+	FIX: Removed unused Texgyre font
+	FIX: Other minor improvements and bug fixes (CSS, JavaScript)
+	
+
+- Version 1.5.1 – Aug 13, 2015 -
+	
+	NEW: Show alert errors on contact form – http://d.pr/cfvS
+	
+	UPDATE: Language files updated with latest theme strings
+	
+	FIX: Google map styling not being applied
+	FIX: Title being duplicated after v1.5
+	FIX: Other minor improvements and bug fixes reported after v1.5 update
+	
+
+- Version 1.5 – Aug 11, 2015 -
+	
+	UPDATE: WooCommerce 2.4.1 Compatibility
+	UPDATE: Revolution Slider updated to latest version – v5.0.3
+	UPDATE: Language files updated with latest theme strings
+	
+	FIX: Checkout form fields showing labels instead of placeholders
+	FIX: Missing SoundCloud URL field in Theme Options > Social Networks
+	FIX: WooCommerce templates cleanup, removed unused templates
+	
+
+- Version 1.4.5 – Aug 10, 2015 -
+
+	UPDATE: Visual Composer updated to latest version – v4.6.2
+	UPDATE: Revolution Slider updated to latest version – v5.0.2
+	
+	FIX: Quality check for this item required from Envato – Done
+	FIX: Taxonomies not being applied for portfolio items in VC
+	FIX: 8 columns options not working for masonry portfolio element in VC
+	FIX: Other minor improvements and bug fixes
+	
+
+- Version 1.4.1 – Jul 24, 2015 -
+
+	NEW: Support for SVG image format
+	NEW: On portfolio page template (loop) you can add Visual Composer content as well
+	NEW: Ability to add Visual Composer content in main Shop page
+	
+	FIX: Hotfix for Visual Composer error appearing when updating the theme
+	
+	
+
+- Version 1.4 – Jul 24, 2015 -
+	
+	NEW: Wordpress 4.2.3 compatibility
+	NEW: Dividers widget for Visual Composer – http://d.pr/1a6Kx — http://d.pr.co/178nr
+	NEW: Blog posts widget for Visual Composer – http://d.pr/1278C — http://d.pr/1lMep
+	NEW: Pricing table widget for Visual Composer – http://d.pr/190jP — http://d.pr/lf0p
+	NEW: Default font for Kalium theme is now Karla – http://d.pr/v80i
+	NEW: Custom logo and menu skin for individual pages – http://d.pr/1xjN
+	NEW: SoundCloud icon added to social networks
+	NEW: VKontakte social network added as product sharing link
+	NEW: PHP warning for demo content importer, a guide for those who cannot install demo content
+	NEW: You can also import widgets for demo content packs
+	NEW: Option to activate sticky menu on first scroll event – http://d.pr/17mJF
+	NEW: Finally animated eye icon for portfolio item (type 1) – http://d.pr/1kdMJ
+	NEW: Rounded icons option for blog post sharing social networks – http://drops.laborator.co/1jcP2
+	
+	UPDATE: Visual Composer updated to latest version – v4.6.1
+	UPDATE: WooCoomerce 2.3.13 Compatibility
+	UPDATE: Layer Slider updated to latest version – v5.5.0
+	UPDATE: TGM plugin updater updated to latest version
+	UPDATE: Less.php parser updated to latest version – v1.7.0.4
+	UPDATE: Compatibility for Laborator Widgets to work with latest version of Visual Composer
+	UPDATE: Language files updated with latest theme strings
+	UPDATE: Importer plugin updated to latest version
+	UPDATE: Demo Content Packages updated to latest version
+	
+	FIX: Social networks now open on New Window (target _blank)
+	FIX: Performance issues resolved – theme works now faster
+	FIX: Apple touch icon not showing on iOS devices
+	FIX: In-page links scrolling conflicts with other links
+	FIX: Map widget not working in latest version of VC
+	FIX: Updating premium plugins works now in all plugins
+	FIX: Logo exceeding size on small viewports now fits properly
+	FIX: Menu icon not showing in Tablet devices at 768px viewport size
+	FIX: Skin colors not being applied to some elements
+	FIX: Revolution slider "activate" message removed from admin panel
+	FIX: Many more minor improvements and bug fixes
+	FIX: Product loop item not showing in full width (bug in safari)
+	
+
+- Version 1.3.1 – Jun 27, 2015 -
+	
+	NEW: In-page target links automatically scroll with easing – http://d.pr/1cThJ
+	
+	UPDATE: Security Vulnerability fix applied, read more - http://d.pr/12ZUp
+	UPDATE: Visual Composer updated to latest version – v4.5.3
+	
+	FIX: Titles in blog categories showing <SPAN> markup
+	FIX: Portfolio item not clickable on blank area iPhone
+	FIX: Global option for header position now works properly
+	FIX: Other minor improvements and bug fixes
+	
+
+- Version 1.3 – Jun 11, 2015 -
+	
+	NEW: Sub menu indicator for Standard Menu – http://d.pr/wa1z
+	NEW: Custom text for Full Screen portfolio text box – http://d.pr/19ts3
+	NEW: Option to hide the description box in Full Screen portfolio item type – http://d.pr/1inxI
+	NEW: GitHub social network icon added to social networks links
+	
+	UPDATE: Language files updated to the latest version
+	
+	FIX: Some child theme file templates not being replaced with users files
+	FIX: Share post on Twitter missing space between title and url
+	FIX: Missing skin colors added to the skin file
+	FIX: The last menu item sub menus showing outside the window (horizontal scroll appearing)
+	FIX: Auto-type widget in Visual Composer not working in PHP < 5.3.3
+	FIX: Full Background Menu not getting main color from skin file
+	FIX: Coming soon and Maintenance page getting blank when skin is activated
+	FIX: Links underline in Revolution Slider buttons (text decoration animation)
+	FIX: Logo and favicon urls in Secure HTTP not showing
+	FIX: Captions not supporting row break text
+	FIX: Target _blank not working on clients logos VC widget
+	
+	Believe it or not this is 3 hours before our vocation update :) See you next week!
+	
+
+- Version 1.2 – Jun 03, 2015 -
+
+	NEW: WooCommerce Support, Yaay!
+	NEW: Include Visual Composer elements in your portfolio listing page – http://d.pr/i/1ixJq
+	NEW: Option for selecting Next-Prev related items in portfolio – http://d.pr/QAL2
+	NEW: Better guide on installing theme and updating plugins – http://d.pr/16h9a
+	NEW: Improved Theme Options interface, more options and documentation included
+	
+	UPDATE: Visual Composer updated to latest version – v4.5.2
+	UPDATE: Revolution Slider updated to latest version – v4.6.93
+	UPDATE: Layer Slider updated to latest version – v5.4.0
+	UPDATE: Language files updated
+
+	FIX: Skin colors changing to default on some cases
+	FIX: Installing premium sliders not working with Child-Themes
+	FIX: Sticky description not working on single portfolio items
+	FIX: Portfolio category filter redirecting to blog posts
+	FIX: Full screen videos not working in portfolio items
+	FIX: Revolution slider "purchase" notification removed
+	FIX: First ten Portfolio items on home match with proportions, the other ones are cropped
+	FIX: Next-previous on portfolio items not working
+	FIX: Posts Grid bug when combined with Portfolio Posts
+	FIX: Classic menu showing hamburger icon even in large screens
+	FIX: Original image size option not being applied for Audio & Self-Hosted blog posts
+	FIX: Missing icons for Laborator Components in Visual Composer
+	FIX: Many, many more minor bugs and performance improvements
+
+
+- Version 1.1.5 – May 05, 2015 -
+	
+	NEW: Theme shortcuts added in admin bar – http://d.pr/i/1gRVZ
+
+	UPDATE: WordPress 4.2.1 compatible
+	UPDATE: Security Vulnerability fix applied, read more - http://d.pr/11Yef
+	UPDATE: Visual Composer updated to latest version – v4.5.1
+	UPDATE: Revolution Slider updated to latest version – v4.6.92
+	
+	FIX: Extra margins in responsive mode
+	FIX: Three dots in footer that expand widgets were always visible
+	FIX: Hover underlines not working
+	FIX: A lot new improvements and bug fixes
+	
+
+- Version 1.1 – Apr 17, 2015 -
+
+	NEW: Demo content for “Architecture” site added to 1-click-installer
+	NEW: Portfolio with visible titles listing can now show items in proportional 
+	image height — http://d.pr/i/1alum
+	NEW: Portfolio items with custom external link — http://d.pr/i/18Nek
+	NEW: Fixed footer feature (behind wrapper) with fade and slide animation 
+	http://d.pr/i/1gptg
+	NEW: Top menu nav with 7 and 8 columns per row added
+	NEW: Reset portfolio likes from admin panel — http://d.pr/i/14ZiQ
+	NEW: Visible number of likes for portfolio items — http://d.pr/i/1fMts
+	NEW: Option to centre menu items in Top Menu (first level only) — http://d.pr/i/17eKU
+	NEW: Retina pin support for “Map” Visual Composer widget
+	
+	UPDATE: For better SEO, four menu types are not included in document in 
+	the same time — http://d.pr/i/11BrV
+	UPDATE: Latest changes included in “Main” demo content file
+	
+	FIX: Top menu toggling in sticky menu mode bug
+	FIX: Buggy sticky description in “Side Portfolio” type
+	FIX: Clever code to avoid duplicate font import inside <head> tag
+	FIX: Maintenance or Coming soon mode shown also for administrator users when enabled
+	FIX: Many more bugs worth not putting in this list!
+	
+	Your haircut? We’re not sure if that’s new but it’s really working for you.
+
+- Version 1.0 – Apr 6, 2015 -
+
+	First Release
+	P.S: Great things soon to come =)
